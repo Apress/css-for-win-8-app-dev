@@ -1,0 +1,9 @@
+﻿.lstb09 .circle {
+    stroke:black;
+    stroke-width:2;
+    fill:white;
+}
+
+.lstb09 .line {
+    fill:gray;
+}

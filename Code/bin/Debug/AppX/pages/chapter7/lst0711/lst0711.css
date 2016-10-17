@@ -1,0 +1,21 @@
+﻿.lst0711 #grid {
+    display: -ms-grid;
+    -ms-grid-rows: 1fr 1fr;
+    -ms-grid-columns: 1fr 1fr;
+    width: 800px;
+    height: 300px;
+    border: 3px solid lightgray;
+}
+
+.lst0711 #grid > div {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+}
+
+.lst0711 #a { -ms-grid-row: 1; -ms-grid-column: 1; }
+.lst0711 #b { -ms-grid-row: 1; -ms-grid-column: 2; }
+.lst0711 #c { -ms-grid-row: 2; -ms-grid-column: 1; }
+.lst0711 #d { -ms-grid-row: 2; -ms-grid-column: 2; }
+

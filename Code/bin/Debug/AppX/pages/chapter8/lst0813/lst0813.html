@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Listing 8-13</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-light.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <link href="lst0813.css" rel="stylesheet" />
+    <script src="lst0813.js"></script>
+</head>
+<body>
+    <div class="lst0813 fragment">
+        <section aria-label="Main content" role="main">
+            <h1 class="menu win-type-ellipsis">
+                <span class="title">Header Menu</span>
+                <span class="chevron win-type-x-large">&#xe099</span>
+            </h1>
+
+            <div id="headerMenu" data-win-control="WinJS.UI.Menu">
+                <button data-win-control="WinJS.UI.MenuCommand"
+                    data-win-options="{id:'s1',label:'Section One'}"></button>
+                <button data-win-control="WinJS.UI.MenuCommand"
+                    data-win-options="{id:'s2',label:'Section Two'}"></button>
+                <button data-win-control="WinJS.UI.MenuCommand"
+                    data-win-options="{id:'s3',label:'Section Three'}"></button>
+                <hr data-win-control="WinJS.UI.MenuCommand"
+                    data-win-options="{id:'separator',type:'separator'}" />
+                <button data-win-control="WinJS.UI.MenuCommand"
+                    data-win-options="{id:'sHome',label:'Home'}"></button>
+            </div>
+
+        </section>
+    </div>
+</body>
+</html>

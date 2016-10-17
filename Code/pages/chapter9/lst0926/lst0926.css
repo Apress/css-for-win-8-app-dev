@@ -1,0 +1,15 @@
+﻿.lst0926 p {
+    margin-left: 120px;
+}
+
+.lst0926 .parent {
+    width: 100px;
+    height: 300px;
+    border: solid 2px gray;
+}
+
+.lst0926 .child {
+    width: 300px;
+    height: 100px;
+    border: solid 2px;
+}

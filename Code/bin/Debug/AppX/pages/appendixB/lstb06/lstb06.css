@@ -1,0 +1,15 @@
+﻿.lstb06 #sailboat {
+    opacity:0.05;
+}
+
+.lstb06 .grid {
+    display:-ms-grid;
+}
+
+.lstb06 #main {
+    border:solid 1px gray;
+    font-size:large;
+    width:500px;
+    height:500px;
+    padding:10px;
+}

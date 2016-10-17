@@ -1,0 +1,20 @@
+﻿.lstb07 #listview .win-item {
+    display:-ms-grid;
+    -ms-grid-columns:1fr;
+    -ms-grid-rows:1fr;
+    width:250px;
+    height:174px;
+    background: url(paint.svg) no-repeat;
+    background-size:250px auto;
+}
+
+    .lstb07 #listview .win-item h2 {
+        -ms-grid-column-align:center;
+        -ms-grid-row-align:center;
+        color:white;
+        font-family:'Segoe WP';
+        font-size:40px;
+        font-weight:bold;
+        position:relative;
+        top:-10px;
+    }

@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Listing 10-11</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-light.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <link href="lst1011.css" rel="stylesheet" />
+    <script src="lst1011.js"></script>
+</head>
+<body>
+    <div class="lst1011 fragment">
+        <section aria-label="Main content" role="main">
+            
+            <div id="productsList" data-win-control="WinJS.UI.ListView"></div>
+            <div id="discountsList" data-win-control="WinJS.UI.ListView"></div>
+
+            <div id="productItemTemplate" data-win-control="WinJS.Binding.Template">
+                <div data-win-bind="className:isFeatured lst1011.Converters.isFeaturedToString;">
+                    <h3 data-win-bind="innerText:name"></h3>
+                    <div data-win-bind="innerText:price" class="win-type-xx-small"></div>
+                </div>
+            </div>
+            <div id="discountItemTemplate" data-win-control="WinJS.Binding.Template">
+                ...
+            </div>
+        </section>
+    </div>
+</body>
+</html>

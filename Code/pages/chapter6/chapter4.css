@@ -1,0 +1,159 @@
+﻿.chapter4 section[role=main] > * {
+    margin-left: 120px;
+}
+
+.parent {
+    display: -ms-flexbox;
+    margin-top: 100px
+}
+.parent div {
+    border: 2px solid gray;
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+    margin: 5px;
+}
+
+/*rotate
+.parent div:nth-of-type(1){ transform: rotate(5deg); }
+.parent div:nth-of-type(2){ transform: rotate(-45deg); }
+.parent div:nth-of-type(3){ transform: rotate(180deg); }*/
+
+/* scale 
+.parent div:nth-of-type(1){ transform: scale(1) }
+.parent div:nth-of-type(2){ transform: scale(0.5) }
+.parent div:nth-of-type(3){ transform: scale(2) }*/
+
+/* skew 
+.parent div:nth-of-type(1){ transform: skew(0deg, 10deg) }
+.parent div:nth-of-type(2){ transform: skew(-5deg, 0deg) }
+.parent div:nth-of-type(3){ transform: skew(15deg, 15deg) }*/
+
+/* translate 
+.parent div:nth-of-type(1){ transform: translate(0,0) }
+.parent div:nth-of-type(2){ transform: translate(20px,20px); }
+.parent div:nth-of-type(3){ transform: translate(0,0); }*/
+
+/* matrix */
+
+/* perspective 
+.parent div:nth-of-type(1){ transform: rotate3d(1,1,1,45deg); }
+.parent div:nth-of-type(2){ transform: perspective(400px) rotate3d(1,1,1,45deg); }
+.parent div:nth-of-type(3){ transform: perspective(200px) rotate3d(1,1,1,45deg); }*/
+
+/*rotate3d
+.parent div:nth-of-type(1){ transform: rotate3d(1,0,0,45deg); }
+.parent div:nth-of-type(2){ transform: rotate3d(0,1,0,45deg); }
+.parent div:nth-of-type(3){ transform: rotate3d(1,1,0,45deg); }*/
+
+/* scale3d */
+.parent { perspective: 800px; }
+.parent div:nth-of-type(1){ transform: rotate3d(1,1,0,45deg) scale3d(1,1,1); }
+.parent div:nth-of-type(2){ transform: rotate3d(1,1,0,45deg) scale3d(0.8,0.8,0.8); }
+.parent div:nth-of-type(3){ transform: rotate3d(1,1,0,45deg) scale3d(0.5,1.2,1.2); }
+
+/* translate3d 
+.parent { display: -ms-grid;}
+.parent div { background-color: white;}
+.parent div:nth-of-type(1){ transform: rotate3d(1, -1, 0, 45deg) translate3d(0, 0, 0); }
+.parent div:nth-of-type(2){ transform: rotate3d(1, -1, 0, 45deg) translate3d(0, 0, 60px); }
+.parent div:nth-of-type(3){ transform: rotate3d(1, -1, 0, 45deg) translate3d(0, 0, 120px); }*/
+
+/* matrix3d 
+.parent div:nth-of-type(1){ transform: matrix3d(0.359127, -0.469472, 0.806613, 0, 0.190951, 0.882948, 0.428884, 0, -0.913545, 0, 0.406737, 0, 0, 0, 0, 1); }*/
+
+/*transition*/
+#box {
+    width: 100px;
+    height: 100px;
+    border: 2px solid hsl(0,0%,70%);
+}
+
+#box:hover {
+    background-color: gray;
+    border-radius: 25px;
+    transition: border-radius 2s, background-color 10s;
+}
+
+
+#flexbox {
+    display: -ms-flexbox;
+    -ms-flex-wrap: wrap;
+}
+
+#flexbox div {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    background-color: hsl(0,0%,50%);
+    border: 2px solid hsl(0,0%,70%);
+}
+
+.chapter4 #flexbox div:nth-of-type(1) {
+    background-color: hsl(0,0%,100%);
+}
+.chapter4 #flexbox div:nth-of-type(2) {
+    background-color: hsl(0,0%,50%);
+}
+.chapter4 #flexbox div:nth-of-type(3) {
+    background-color: hsl(0,0%,0%);
+}
+.chapter4 #flexbox div:nth-of-type(4) {
+    background-color: hsl(0,0%,25%);
+}
+.chapter4 #flexbox div:nth-of-type(5) {
+    background-color: hsl(0,0%,50%);
+}
+
+/*animation*/
+@keyframes growAndShrink{
+    50% {
+             width: 400px;
+             height: 400px;
+         }
+}
+
+.chapter4 #box {
+    background-color: gray;
+    width: 100px;
+    height: 100px;
+    animation: 2s growAndShrink 3;
+
+}
+
+.chapter4 #box:hover {
+}
+
+.chapter4 #fixed {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 150px;
+    top: 250px;
+}
+
+.chapter4 #orbit {
+    border: 1px solid black;    
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    animation: orbit 10s linear;
+}
+
+@keyframes orbit {
+    100% {
+            left: 300px;
+            top: 0px;
+        }
+    50% {
+            left: 300px;
+            top: 300px;
+        }
+    75% {
+            left: 0px;
+            top: 300px;
+        }
+}

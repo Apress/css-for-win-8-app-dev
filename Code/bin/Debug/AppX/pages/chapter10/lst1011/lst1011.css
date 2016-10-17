@@ -1,0 +1,9 @@
+﻿.lst1011 #productsList .widget {
+    width:200px;
+    height:100px;
+    border: 1px solid gray;
+    padding:10px;
+}
+.lst1011 #productsList .widget.featured {
+    background-color: lightgray;
+}

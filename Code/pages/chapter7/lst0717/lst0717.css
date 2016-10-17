@@ -1,0 +1,26 @@
+﻿.lst0717 .win-listview {
+    height: 100%;
+}
+
+.lst0717 .normal {
+    display:-ms-grid;
+    -ms-grid-rows:160px;
+    -ms-grid-columns:160px;
+    background-color:gray;
+    color:white;
+}
+
+.lst0717 .oversized {
+    display:-ms-grid;
+    -ms-grid-rows:330px;
+    -ms-grid-columns:330px;
+    background-color:gray;
+    color:white;
+}
+
+.lst0717 .number {
+    font-size: 36px;
+    font-weight: bold;
+    -ms-grid-column-align: center;
+    -ms-grid-row-align: center;
+}

@@ -1,0 +1,84 @@
+﻿.chapter3 section[role=main] > * {
+    margin-left: 120px;
+}
+
+.chapter3 #sections {
+    display: -ms-flexbox;
+    -ms-scroll-snap-x: mandatory snapInterval(0, 100%);
+    overflow-x: scroll;
+    height:600px;
+}
+
+.chapter3 .section { width: 100%; }
+    .chapter3 .section h2:first-of-type { margin-bottom: 20px; }
+
+#width { width:200px; border: 1px solid black;}
+    #width > div { background:green; height: 20px; margin:2px; color:white; }
+#width div:nth-of-type(1) { width: 10px; }
+#width div:nth-of-type(2) { width: 50%; }
+#width div:nth-of-type(3) { width: 100px; }
+#width div:nth-of-type(4) { width: calc(100% - 10px); }
+#width div:nth-of-type(5) { width: 1in; }
+
+.chapter3 #margin #parent > div {
+    width: 200px;
+    height: 80px;
+    border: 1px solid black;
+    margin: 5px;
+}
+
+    .chapter3 #margin #parent > div:nth-child(1) {
+        margin-left: 5px;
+    }
+    
+    .chapter3 #margin #parent > div:nth-child(2) {
+        margin-left: 50px;
+    }
+    
+    .chapter3 #margin #parent > div:nth-child(3) {
+        margin-left: 100px;
+    }
+
+    .chapter3 #padding div {
+        border: 5px solid black;
+        padding: 50px;
+        width:50%;
+        height: 200px;
+    }
+
+    .chapter3 #border div {
+        border: 50px solid black;
+        padding: 50px;
+        height: 200px;
+        overflow-y: hidden;
+    }
+
+        .chapter3 #border div p {
+            margin: 0px;
+            border: 1px dotted gray;
+        }
+
+.chapter3 #background div{
+    width: 600px;
+    height: 600px;
+    background: radial-gradient(circle at 50% 50%, black 0%, white 100%);
+}
+
+/* OVERFLOW */
+.chapter3 #overflow #container {
+    height: 220px;
+    width: 300px;
+    border: 1px solid gray;
+    margin: 10px;
+    padding: 10px;
+    overflow-y: auto;
+}
+
+/* SHADOW */
+.chapter3 #shadow #shadow1 {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border: 1px solid black;
+    box-shadow: 10px 10px 10px 0px hsla(0,0%,0%,.5);
+}

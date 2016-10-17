@@ -1,0 +1,18 @@
+﻿.lst1002 .win-listview {
+    height: 100%;
+}
+
+.lst1002 .win-listview .win-item .grid {
+    display:-ms-grid;
+    -ms-grid-rows:160px;
+    -ms-grid-columns:160px;
+    background-color:gray;
+    color:white;
+}
+
+.lst1002 .win-listview .win-item .grid div {
+    font-size: 36px;
+    font-weight: bold;
+    -ms-grid-column-align: center;
+    -ms-grid-row-align: center;
+}

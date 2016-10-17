@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Listing 8-8</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-light.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <link href="lst0808.css" rel="stylesheet" />
+    <script src="lst0808.js"></script>
+</head>
+<body>
+    <div class="lst0808 fragment">
+        <section aria-label="Main content" role="main">
+
+        <p>Open the Settings charm and choose Listing 8-8 to see the resulting settings pane</p>
+
+        <!-- BEGINSETTINGSFLYOUT -->
+        <div id="sampleSettings" data-win-control="WinJS.UI.SettingsFlyout"
+            aria-label="App Settings Flyout">
+            <div class="win-ui-light win-header">
+                <button type="button" onclick="WinJS.UI.SettingsFlyout.show()"
+                    class="win-backbutton"></button>
+                <div class="win-label">Preferences</div>
+            </div>
+            <div class="win-content">
+                <div class="win-settings-section">
+                    <h3>Toggle switch</h3>
+                    <p>Use toggle switches to let users set Boolean values.</p>
+                    <div id="Toggle1" data-win-control="WinJS.UI.ToggleSwitch" 
+                        data-win-options="{title:'Download updates automatically',checked:true}">
+                    </div>
+                    <div id="Toggle2" data-win-control="WinJS.UI.ToggleSwitch" 
+                        data-win-options="{title:'Install updates automatically'}">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ENDSETTINGSFLYOUT -->
+
+        </section>
+    </div>
+</body>
+</html>
+
+
+        

@@ -1,0 +1,25 @@
+﻿.lst0523 .flex {
+    display:-ms-flexbox;
+    -ms-flex-pack:distribute;
+    -ms-flex-align:center;
+    height:200px;
+    width:600px;
+}
+
+.lst0523 .glowBox {
+    border:1px solid gray;
+    width:100px;
+    height:100px;
+    box-shadow: 0px 0px 40px 10px hsla(0,0%,0%,.5);
+}
+
+.lst0523 .stitches {
+    background-color: lightgray;
+    border:2px dashed black;
+    box-shadow: 0 0 0 4px lightgray;
+    color: black;
+    padding: 10px;
+    border-radius: 4px;
+    width:100px;
+    height:100px;
+}

@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Listing 8-4</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-light.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <link href="lst0804.css" rel="stylesheet" />
+    <script src="lst0804.js"></script>
+</head>
+<body>
+    <div class="lst0804 fragment">
+        <section aria-label="Main content" role="main">
+            This Listing creates an app bar. To see it, right click, press Win + Z, or swipe up from the screen's bottom edge.
+        </section>
+        <div id="myAppBar" data-win-control="WinJS.UI.AppBar">
+            <button
+                data-win-control="WinJS.UI.AppBarCommand"
+                data-win-options="{ id:'cmdAdd', label:'Add', icon:'add', section:'global',
+                    tooltip:'Add item' }"></button>
+            <button 
+                data-win-control="WinJS.UI.AppBarCommand" 
+                data-win-options="{ id:'cmdDelete', label:'Delete', icon:'delete',
+                    section:'global', tooltip:'Delete item' }"></button>
+            <button 
+                data-win-control="WinJS.UI.AppBarCommand" 
+                data-win-options="{ id:'cmdCamera', label:'Camera', icon:'camera',
+                    section:'selection', tooltip:'Take a picture' }"></button>
+        </div>
+    </div>
+</body>
+</html>

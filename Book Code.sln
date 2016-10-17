@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "Code", "Code\Code.jsproj", "{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DA4EA823-5265-4C47-BD28-E124B813EDB5}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs32
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Code\\Code.jsproj
+		SccProjectName1 = Code
+		SccLocalPath1 = Code
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Debug|ARM.ActiveCfg = Debug|ARM
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Debug|ARM.Build.0 = Debug|ARM
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Debug|ARM.Deploy.0 = Debug|ARM
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Debug|x64.ActiveCfg = Debug|x64
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Debug|x64.Build.0 = Debug|x64
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Debug|x64.Deploy.0 = Debug|x64
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Debug|x86.ActiveCfg = Debug|x86
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Debug|x86.Build.0 = Debug|x86
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Debug|x86.Deploy.0 = Debug|x86
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Release|ARM.ActiveCfg = Release|ARM
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Release|ARM.Build.0 = Release|ARM
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Release|ARM.Deploy.0 = Release|ARM
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Release|x64.ActiveCfg = Release|x64
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Release|x64.Build.0 = Release|x64
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Release|x64.Deploy.0 = Release|x64
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Release|x86.ActiveCfg = Release|x86
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Release|x86.Build.0 = Release|x86
+		{B71F3FFF-1EE7-4250-9E2F-99F0C8B8DC62}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

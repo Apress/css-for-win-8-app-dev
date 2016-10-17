@@ -1,0 +1,486 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|AnyCPU">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|ARM">
+      <Configuration>Debug</Configuration>
+      <Platform>ARM</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x86">
+      <Configuration>Debug</Configuration>
+      <Platform>x86</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|AnyCPU">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|ARM">
+      <Configuration>Release</Configuration>
+      <Platform>ARM</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x86">
+      <Configuration>Release</Configuration>
+      <Platform>x86</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>b71f3fff-1ee7-4250-9e2f-99f0c8b8dc62</ProjectGuid>
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0'">
+    <VisualStudioVersion>11.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).Default.props" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).props" />
+  <PropertyGroup>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetPlatformVersion>8.0</TargetPlatformVersion>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <PackageCertificateKeyFile>Code_TemporaryKey.pfx</PackageCertificateKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppxManifest Include="package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <Content Include="css\default.css" />
+    <Content Include="images\chapterTileBackground.png" />
+    <Content Include="images\chicken_disabled_empty.svg" />
+    <Content Include="images\chicken_disabled_full.svg" />
+    <Content Include="images\chicken_empty.svg" />
+    <Content Include="images\chicken_full.svg" />
+    <Content Include="images\cover.png" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\smalllogo.png" />
+    <Content Include="images\splashscreen.png" />
+    <Content Include="images\storelogo.png" />
+    <Content Include="images\win8logo.png" />
+    <Content Include="js\data.js" />
+    <Content Include="js\default.js" />
+    <Content Include="js\navigator.js" />
+    <Content Include="js\ocho.js" />
+    <Content Include="pages\appendixB\lstb01\lstb01.css" />
+    <Content Include="pages\appendixB\lstb01\lstb01.html" />
+    <Content Include="pages\appendixB\lstb01\lstb01.js" />
+    <Content Include="pages\appendixB\lstb02\lstb02.css" />
+    <Content Include="pages\appendixB\lstb02\lstb02.html" />
+    <Content Include="pages\appendixB\lstb02\lstb02.js" />
+    <Content Include="pages\appendixB\lstb03\lstb03.css" />
+    <Content Include="pages\appendixB\lstb03\lstb03.html" />
+    <Content Include="pages\appendixB\lstb03\lstb03.js" />
+    <Content Include="pages\appendixB\lstb04\lstb04.css" />
+    <Content Include="pages\appendixB\lstb04\lstb04.html" />
+    <Content Include="pages\appendixB\lstb04\lstb04.js" />
+    <Content Include="pages\appendixB\lstb06\lstb06.css" />
+    <Content Include="pages\appendixB\lstb06\lstb06.html" />
+    <Content Include="pages\appendixB\lstb06\lstb06.js" />
+    <Content Include="pages\appendixB\lstb06\sailboat.svg" />
+    <Content Include="pages\appendixB\lstb07\lstb07.css" />
+    <Content Include="pages\appendixB\lstb07\lstb07.html" />
+    <Content Include="pages\appendixB\lstb07\lstb07.js" />
+    <Content Include="pages\appendixB\lstb07\paint.svg" />
+    <Content Include="pages\appendixB\lstb09\lstb09.css" />
+    <Content Include="pages\appendixB\lstb09\lstb09.html" />
+    <Content Include="pages\appendixB\lstb09\lstb09.js" />
+    <Content Include="pages\box\box.css" />
+    <Content Include="pages\box\box.html" />
+    <Content Include="pages\box\box.js" />
+    <Content Include="pages\chapter10\lst1002\lst1002.css" />
+    <Content Include="pages\chapter10\lst1002\lst1002.html" />
+    <Content Include="pages\chapter10\lst1002\lst1002.js" />
+    <Content Include="pages\chapter10\lst1003\lst1003.css" />
+    <Content Include="pages\chapter10\lst1003\lst1003.html" />
+    <Content Include="pages\chapter10\lst1003\lst1003.js" />
+    <Content Include="pages\chapter10\lst1008\lst1008.css" />
+    <Content Include="pages\chapter10\lst1008\lst1008.html" />
+    <Content Include="pages\chapter10\lst1008\lst1008.js" />
+    <Content Include="pages\chapter10\lst1005\lst1005.css" />
+    <Content Include="pages\chapter10\lst1005\lst1005.html" />
+    <Content Include="pages\chapter10\lst1005\lst1005.js" />
+    <Content Include="pages\chapter10\lst1009\lst1009.css" />
+    <Content Include="pages\chapter10\lst1009\lst1009.html" />
+    <Content Include="pages\chapter10\lst1009\lst1009.js" />
+    <Content Include="pages\chapter10\lst1010\lst1010.css" />
+    <Content Include="pages\chapter10\lst1010\lst1010.html" />
+    <Content Include="pages\chapter10\lst1010\lst1010.js" />
+    <Content Include="pages\chapter10\lst1011\lst1011.css" />
+    <Content Include="pages\chapter10\lst1011\lst1011.html" />
+    <Content Include="pages\chapter10\lst1011\lst1011.js" />
+    <Content Include="pages\chapter10\lst1012\AddressControl.js" />
+    <Content Include="pages\chapter10\lst1012\lst1012.css" />
+    <Content Include="pages\chapter10\lst1012\lst1012.html" />
+    <Content Include="pages\chapter10\lst1012\lst1012.js" />
+    <Content Include="pages\chapter2\lst0206\lst0206.css" />
+    <Content Include="pages\chapter2\lst0206\lst0206.html" />
+    <Content Include="pages\chapter2\lst0206\lst0206.js" />
+    <Content Include="pages\chapter3\lst0313\lst0313.css" />
+    <Content Include="pages\chapter3\lst0313\lst0313.html" />
+    <Content Include="pages\chapter3\lst0313\lst0313.js" />
+    <Content Include="pages\chapter3\lst0329\lst0329.css" />
+    <Content Include="pages\chapter3\lst0329\lst0329.html" />
+    <Content Include="pages\chapter3\lst0329\lst0329.js" />
+    <Content Include="pages\chapter3\lst0330\lst0330.css" />
+    <Content Include="pages\chapter3\lst0330\lst0330.html" />
+    <Content Include="pages\chapter3\lst0330\lst0330.js" />
+    <Content Include="pages\chapter3\lst0331\lst0331.css" />
+    <Content Include="pages\chapter3\lst0331\lst0331.html" />
+    <Content Include="pages\chapter3\lst0331\lst0331.js" />
+    <Content Include="pages\chapter3\lst0334\lst0334.css" />
+    <Content Include="pages\chapter3\lst0334\lst0334.html" />
+    <Content Include="pages\chapter3\lst0334\lst0334.js" />
+    <Content Include="pages\chapter3\lst0333\lst0333.css" />
+    <Content Include="pages\chapter3\lst0333\lst0333.html" />
+    <Content Include="pages\chapter3\lst0333\lst0333.js" />
+    <Content Include="pages\chapter3\lst0332\lst0332.css" />
+    <Content Include="pages\chapter3\lst0332\lst0332.html" />
+    <Content Include="pages\chapter3\lst0332\lst0332.js" />
+    <Content Include="pages\chapter4\lst0401\lst0401.css" />
+    <Content Include="pages\chapter4\lst0401\lst0401.html" />
+    <Content Include="pages\chapter4\lst0401\lst0401.js" />
+    <Content Include="pages\chapter4\lst0402\lst0402.css" />
+    <Content Include="pages\chapter4\lst0402\lst0402.html" />
+    <Content Include="pages\chapter4\lst0402\lst0402.js" />
+    <Content Include="pages\chapter4\lst0403\lst0403.css" />
+    <Content Include="pages\chapter4\lst0403\lst0403.html" />
+    <Content Include="pages\chapter4\lst0403\lst0403.js" />
+    <Content Include="pages\chapter4\lst0404\lst0404.css" />
+    <Content Include="pages\chapter4\lst0404\lst0404.html" />
+    <Content Include="pages\chapter4\lst0404\lst0404.js" />
+    <Content Include="pages\chapter4\lst0405\lst0405.css" />
+    <Content Include="pages\chapter4\lst0405\lst0405.html" />
+    <Content Include="pages\chapter4\lst0405\lst0405.js" />
+    <Content Include="pages\chapter4\lst0406\lst0406.css" />
+    <Content Include="pages\chapter4\lst0406\lst0406.html" />
+    <Content Include="pages\chapter4\lst0406\lst0406.js" />
+    <Content Include="pages\chapter4\lst0407\lst0407.css" />
+    <Content Include="pages\chapter4\lst0407\lst0407.html" />
+    <Content Include="pages\chapter4\lst0407\lst0407.js" />
+    <Content Include="pages\chapter4\lst0408\lst0408.css" />
+    <Content Include="pages\chapter4\lst0408\lst0408.html" />
+    <Content Include="pages\chapter4\lst0408\lst0408.js" />
+    <Content Include="pages\chapter4\lst0409\lst0409.css" />
+    <Content Include="pages\chapter4\lst0409\lst0409.html" />
+    <Content Include="pages\chapter4\lst0409\lst0409.js" />
+    <Content Include="pages\chapter4\lst0411\lst0411.css" />
+    <Content Include="pages\chapter4\lst0411\lst0411.html" />
+    <Content Include="pages\chapter4\lst0411\lst0411.js" />
+    <Content Include="pages\chapter4\lst0412\lst0412.css" />
+    <Content Include="pages\chapter4\lst0412\lst0412.html" />
+    <Content Include="pages\chapter4\lst0412\lst0412.js" />
+    <Content Include="pages\chapter4\lst0415\lst0415.css" />
+    <Content Include="pages\chapter4\lst0415\lst0415.html" />
+    <Content Include="pages\chapter4\lst0415\lst0415.js" />
+    <Content Include="pages\chapter4\lst0416\lst0416.css" />
+    <Content Include="pages\chapter4\lst0416\lst0416.html" />
+    <Content Include="pages\chapter4\lst0416\lst0416.js" />
+    <Content Include="pages\chapter4\lst0417\lst0417.css" />
+    <Content Include="pages\chapter4\lst0417\lst0417.html" />
+    <Content Include="pages\chapter4\lst0417\lst0417.js" />
+    <Content Include="pages\chapter4\lst0419\lst0419.css" />
+    <Content Include="pages\chapter4\lst0419\lst0419.html" />
+    <Content Include="pages\chapter4\lst0419\lst0419.js" />
+    <Content Include="pages\chapter4\lst0418\lst0418.css" />
+    <Content Include="pages\chapter4\lst0418\lst0418.html" />
+    <Content Include="pages\chapter4\lst0418\lst0418.js" />
+    <Content Include="pages\chapter4\lst0423\lst0423.css" />
+    <Content Include="pages\chapter4\lst0423\lst0423.html" />
+    <Content Include="pages\chapter4\lst0423\lst0423.js" />
+    <Content Include="pages\chapter4\lst0422\lst0422.css" />
+    <Content Include="pages\chapter4\lst0422\lst0422.html" />
+    <Content Include="pages\chapter4\lst0422\lst0422.js" />
+    <Content Include="pages\chapter4\lst0421\lst0421.css" />
+    <Content Include="pages\chapter4\lst0421\lst0421.html" />
+    <Content Include="pages\chapter4\lst0421\lst0421.js" />
+    <Content Include="pages\chapter4\lst0420\lst0420.css" />
+    <Content Include="pages\chapter4\lst0420\lst0420.html" />
+    <Content Include="pages\chapter4\lst0420\lst0420.js" />
+    <Content Include="pages\chapter5\chapter3.css" />
+    <Content Include="pages\chapter5\chapter3.html" />
+    <Content Include="pages\chapter5\chapter3.js" />
+    <Content Include="pages\chapter5\lst0501\lst0501.css" />
+    <Content Include="pages\chapter5\lst0501\lst0501.html" />
+    <Content Include="pages\chapter5\lst0501\lst0501.js" />
+    <Content Include="pages\chapter5\lst0503\lst0503.css" />
+    <Content Include="pages\chapter5\lst0503\lst0503.html" />
+    <Content Include="pages\chapter5\lst0503\lst0503.js" />
+    <Content Include="pages\chapter5\lst0502\lst0502.css" />
+    <Content Include="pages\chapter5\lst0502\lst0502.html" />
+    <Content Include="pages\chapter5\lst0502\lst0502.js" />
+    <Content Include="pages\chapter5\lst0506\lst0506.css" />
+    <Content Include="pages\chapter5\lst0506\lst0506.html" />
+    <Content Include="pages\chapter5\lst0506\lst0506.js" />
+    <Content Include="pages\chapter5\lst0505\lst0505.css" />
+    <Content Include="pages\chapter5\lst0505\lst0505.html" />
+    <Content Include="pages\chapter5\lst0505\lst0505.js" />
+    <Content Include="pages\chapter5\lst0504\lst0504.css" />
+    <Content Include="pages\chapter5\lst0504\lst0504.html" />
+    <Content Include="pages\chapter5\lst0504\lst0504.js" />
+    <Content Include="pages\chapter5\lst0507\lst0507.css" />
+    <Content Include="pages\chapter5\lst0507\lst0507.html" />
+    <Content Include="pages\chapter5\lst0507\lst0507.js" />
+    <Content Include="pages\chapter5\lst0508\lst0508.css" />
+    <Content Include="pages\chapter5\lst0508\lst0508.html" />
+    <Content Include="pages\chapter5\lst0508\lst0508.js" />
+    <Content Include="pages\chapter5\lst0509\lst0509.css" />
+    <Content Include="pages\chapter5\lst0509\lst0509.html" />
+    <Content Include="pages\chapter5\lst0509\lst0509.js" />
+    <Content Include="pages\chapter5\lst0512\lst0512.css" />
+    <Content Include="pages\chapter5\lst0512\lst0512.html" />
+    <Content Include="pages\chapter5\lst0512\lst0512.js" />
+    <Content Include="pages\chapter5\lst0514\lst0514.css" />
+    <Content Include="pages\chapter5\lst0514\lst0514.html" />
+    <Content Include="pages\chapter5\lst0514\lst0514.js" />
+    <Content Include="pages\chapter5\lst0515\lst0515.css" />
+    <Content Include="pages\chapter5\lst0515\lst0515.html" />
+    <Content Include="pages\chapter5\lst0515\lst0515.js" />
+    <Content Include="pages\chapter5\lst0516\lst0516.css" />
+    <Content Include="pages\chapter5\lst0516\lst0516.html" />
+    <Content Include="pages\chapter5\lst0516\lst0516.js" />
+    <Content Include="pages\chapter5\lst0517\lst0517.css" />
+    <Content Include="pages\chapter5\lst0517\lst0517.html" />
+    <Content Include="pages\chapter5\lst0517\lst0517.js" />
+    <Content Include="pages\chapter5\lst0518\lst0518.css" />
+    <Content Include="pages\chapter5\lst0518\lst0518.html" />
+    <Content Include="pages\chapter5\lst0518\lst0518.js" />
+    <Content Include="pages\chapter5\lst0520\lst0520.css" />
+    <Content Include="pages\chapter5\lst0520\lst0520.html" />
+    <Content Include="pages\chapter5\lst0520\lst0520.js" />
+    <Content Include="pages\chapter5\lst0521\lst0521.css" />
+    <Content Include="pages\chapter5\lst0521\lst0521.html" />
+    <Content Include="pages\chapter5\lst0521\lst0521.js" />
+    <Content Include="pages\chapter5\lst0522\lst0522.css" />
+    <Content Include="pages\chapter5\lst0522\lst0522.html" />
+    <Content Include="pages\chapter5\lst0522\lst0522.js" />
+    <Content Include="pages\chapter5\lst0523\lst0523.css" />
+    <Content Include="pages\chapter5\lst0523\lst0523.html" />
+    <Content Include="pages\chapter5\lst0523\lst0523.js" />
+    <Content Include="pages\chapter5\lst0524\lst0524.css" />
+    <Content Include="pages\chapter5\lst0524\lst0524.html" />
+    <Content Include="pages\chapter5\lst0524\lst0524.js" />
+    <Content Include="pages\chapter6\chapter4.css" />
+    <Content Include="pages\chapter6\chapter4.html" />
+    <Content Include="pages\chapter6\chapter4.js" />
+    <Content Include="pages\chapter6\lst0601\lst0601.css" />
+    <Content Include="pages\chapter6\lst0601\lst0601.html" />
+    <Content Include="pages\chapter6\lst0601\lst0601.js" />
+    <Content Include="pages\chapter6\lst0602\lst0602.css" />
+    <Content Include="pages\chapter6\lst0602\lst0602.html" />
+    <Content Include="pages\chapter6\lst0602\lst0602.js" />
+    <Content Include="pages\chapter6\lst0607\lst0607.css" />
+    <Content Include="pages\chapter6\lst0607\lst0607.html" />
+    <Content Include="pages\chapter6\lst0607\lst0607.js" />
+    <Content Include="pages\chapter6\lst0608\lst0608.css" />
+    <Content Include="pages\chapter6\lst0608\lst0608.html" />
+    <Content Include="pages\chapter6\lst0608\lst0608.js" />
+    <Content Include="pages\chapter6\lst0609\lst0609.css" />
+    <Content Include="pages\chapter6\lst0609\lst0609.html" />
+    <Content Include="pages\chapter6\lst0609\lst0609.js" />
+    <Content Include="pages\chapter6\lst0610\lst0610.css" />
+    <Content Include="pages\chapter6\lst0610\lst0610.html" />
+    <Content Include="pages\chapter6\lst0610\lst0610.js" />
+    <Content Include="pages\chapter6\lst0611\lst0611.css" />
+    <Content Include="pages\chapter6\lst0611\lst0611.html" />
+    <Content Include="pages\chapter6\lst0611\lst0611.js" />
+    <Content Include="pages\chapter6\lst0612\lst0612.css" />
+    <Content Include="pages\chapter6\lst0612\lst0612.html" />
+    <Content Include="pages\chapter6\lst0612\lst0612.js" />
+    <Content Include="pages\chapter6\lst0613\lst0613.css" />
+    <Content Include="pages\chapter6\lst0613\lst0613.html" />
+    <Content Include="pages\chapter6\lst0613\lst0613.js" />
+    <Content Include="pages\chapter6\lst0614\lst0614.css" />
+    <Content Include="pages\chapter6\lst0614\lst0614.html" />
+    <Content Include="pages\chapter6\lst0614\lst0614.js" />
+    <Content Include="pages\chapter6\lst0615\lst0615.css" />
+    <Content Include="pages\chapter6\lst0615\lst0615.html" />
+    <Content Include="pages\chapter6\lst0615\lst0615.js" />
+    <Content Include="pages\chapter6\lst0616\lst0616.css" />
+    <Content Include="pages\chapter6\lst0616\lst0616.html" />
+    <Content Include="pages\chapter6\lst0616\lst0616.js" />
+    <Content Include="pages\chapter6\lst0617\lst0617.css" />
+    <Content Include="pages\chapter6\lst0617\lst0617.html" />
+    <Content Include="pages\chapter6\lst0617\lst0617.js" />
+    <Content Include="pages\chapter6\lst0621\lst0621.css" />
+    <Content Include="pages\chapter6\lst0621\lst0621.html" />
+    <Content Include="pages\chapter6\lst0621\lst0621.js" />
+    <Content Include="pages\chapter6\lst0622\lst0622.css" />
+    <Content Include="pages\chapter6\lst0622\lst0622.html" />
+    <Content Include="pages\chapter6\lst0622\lst0622.js" />
+    <Content Include="pages\chapter6\lst0623\lst0623.css" />
+    <Content Include="pages\chapter6\lst0623\lst0623.html" />
+    <Content Include="pages\chapter6\lst0623\lst0623.js" />
+    <Content Include="pages\chapter6\lst0624\lst0624.css" />
+    <Content Include="pages\chapter6\lst0624\lst0624.html" />
+    <Content Include="pages\chapter6\lst0624\lst0624.js" />
+    <Content Include="pages\chapter6\lst0627\lst0627.css" />
+    <Content Include="pages\chapter6\lst0627\lst0627.html" />
+    <Content Include="pages\chapter6\lst0627\lst0627.js" />
+    <Content Include="pages\chapter7\lst0701\lst0701.css" />
+    <Content Include="pages\chapter7\lst0701\lst0701.html" />
+    <Content Include="pages\chapter7\lst0701\lst0701.js" />
+    <Content Include="pages\chapter7\lst0702\lst0702.css" />
+    <Content Include="pages\chapter7\lst0702\lst0702.html" />
+    <Content Include="pages\chapter7\lst0702\lst0702.js" />
+    <Content Include="pages\chapter7\lst0703\lst0703.css" />
+    <Content Include="pages\chapter7\lst0703\lst0703.html" />
+    <Content Include="pages\chapter7\lst0703\lst0703.js" />
+    <Content Include="pages\chapter7\lst0704\lst0704.css" />
+    <Content Include="pages\chapter7\lst0704\lst0704.html" />
+    <Content Include="pages\chapter7\lst0704\lst0704.js" />
+    <Content Include="pages\chapter7\lst0705\lst0705.css" />
+    <Content Include="pages\chapter7\lst0705\lst0705.html" />
+    <Content Include="pages\chapter7\lst0705\lst0705.js" />
+    <Content Include="pages\chapter7\lst0706\lst0706.css" />
+    <Content Include="pages\chapter7\lst0706\lst0706.html" />
+    <Content Include="pages\chapter7\lst0706\lst0706.js" />
+    <Content Include="pages\chapter7\lst0707\lst0707.css" />
+    <Content Include="pages\chapter7\lst0707\lst0707.html" />
+    <Content Include="pages\chapter7\lst0707\lst0707.js" />
+    <Content Include="pages\chapter7\lst0708\lst0708.css" />
+    <Content Include="pages\chapter7\lst0708\lst0708.html" />
+    <Content Include="pages\chapter7\lst0708\lst0708.js" />
+    <Content Include="pages\chapter7\lst0709\lst0709.css" />
+    <Content Include="pages\chapter7\lst0709\lst0709.html" />
+    <Content Include="pages\chapter7\lst0709\lst0709.js" />
+    <Content Include="pages\chapter7\lst0710\lst0710.css" />
+    <Content Include="pages\chapter7\lst0710\lst0710.html" />
+    <Content Include="pages\chapter7\lst0710\lst0710.js" />
+    <Content Include="pages\chapter7\lst0711\lst0711.css" />
+    <Content Include="pages\chapter7\lst0711\lst0711.html" />
+    <Content Include="pages\chapter7\lst0711\lst0711.js" />
+    <Content Include="pages\chapter7\lst0713\lst0713.css" />
+    <Content Include="pages\chapter7\lst0713\lst0713.html" />
+    <Content Include="pages\chapter7\lst0713\lst0713.js" />
+    <Content Include="pages\chapter7\lst0712\lst0712.css" />
+    <Content Include="pages\chapter7\lst0712\lst0712.html" />
+    <Content Include="pages\chapter7\lst0712\lst0712.js" />
+    <Content Include="pages\chapter7\lst0714\lst0714.css" />
+    <Content Include="pages\chapter7\lst0714\lst0714.html" />
+    <Content Include="pages\chapter7\lst0714\lst0714.js" />
+    <Content Include="pages\chapter7\lst0715\lst0715.css" />
+    <Content Include="pages\chapter7\lst0715\lst0715.html" />
+    <Content Include="pages\chapter7\lst0715\lst0715.js" />
+    <Content Include="pages\chapter7\lst0717\lst0717.css" />
+    <Content Include="pages\chapter7\lst0717\lst0717.html" />
+    <Content Include="pages\chapter7\lst0717\lst0717.js" />
+    <Content Include="pages\chapter7\lst0716\lst0716.css" />
+    <Content Include="pages\chapter7\lst0716\lst0716.html" />
+    <Content Include="pages\chapter7\lst0716\lst0716.js" />
+    <Content Include="pages\chapter8\lst0801\lst0801.css" />
+    <Content Include="pages\chapter8\lst0801\lst0801.html" />
+    <Content Include="pages\chapter8\lst0801\lst0801.js" />
+    <Content Include="pages\chapter8\lst0802\lst0802.css" />
+    <Content Include="pages\chapter8\lst0802\lst0802.html" />
+    <Content Include="pages\chapter8\lst0802\lst0802.js" />
+    <Content Include="pages\chapter8\lst0803\lst0803.css" />
+    <Content Include="pages\chapter8\lst0803\lst0803.html" />
+    <Content Include="pages\chapter8\lst0803\lst0803.js" />
+    <Content Include="pages\chapter8\lst0813\lst0813.css" />
+    <Content Include="pages\chapter8\lst0813\lst0813.html" />
+    <Content Include="pages\chapter8\lst0813\lst0813.js" />
+    <Content Include="pages\chapter8\lst0804\lst0804.css" />
+    <Content Include="pages\chapter8\lst0804\lst0804.html" />
+    <Content Include="pages\chapter8\lst0804\lst0804.js" />
+    <Content Include="pages\chapter8\lst0808\lst0808.css" />
+    <Content Include="pages\chapter8\lst0808\lst0808.html" />
+    <Content Include="pages\chapter8\lst0808\lst0808.js" />
+    <Content Include="pages\chapter8\lst0810\lst0810.css" />
+    <Content Include="pages\chapter8\lst0810\lst0810.html" />
+    <Content Include="pages\chapter8\lst0810\lst0810.js" />
+    <Content Include="pages\chapter9\lst0901\lst0901.css" />
+    <Content Include="pages\chapter9\lst0901\lst0901.html" />
+    <Content Include="pages\chapter9\lst0901\lst0901.js" />
+    <Content Include="pages\chapter9\lst0902\lst0902.css" />
+    <Content Include="pages\chapter9\lst0902\lst0902.html" />
+    <Content Include="pages\chapter9\lst0902\lst0902.js" />
+    <Content Include="pages\chapter9\lst0903\lst0903.css" />
+    <Content Include="pages\chapter9\lst0903\lst0903.html" />
+    <Content Include="pages\chapter9\lst0903\lst0903.js" />
+    <Content Include="pages\chapter9\lst0904\lst0904.css" />
+    <Content Include="pages\chapter9\lst0904\lst0904.html" />
+    <Content Include="pages\chapter9\lst0904\lst0904.js" />
+    <Content Include="pages\chapter9\lst0905\lst0905.css" />
+    <Content Include="pages\chapter9\lst0905\lst0905.html" />
+    <Content Include="pages\chapter9\lst0905\lst0905.js" />
+    <Content Include="pages\chapter9\lst0906\lst0906.css" />
+    <Content Include="pages\chapter9\lst0906\lst0906.html" />
+    <Content Include="pages\chapter9\lst0906\lst0906.js" />
+    <Content Include="pages\chapter9\lst0907\lst0907.css" />
+    <Content Include="pages\chapter9\lst0907\lst0907.html" />
+    <Content Include="pages\chapter9\lst0907\lst0907.js" />
+    <Content Include="pages\chapter9\lst0908\lst0908.css" />
+    <Content Include="pages\chapter9\lst0908\lst0908.html" />
+    <Content Include="pages\chapter9\lst0908\lst0908.js" />
+    <Content Include="pages\chapter9\lst0920\lst0920.css" />
+    <Content Include="pages\chapter9\lst0920\lst0920.html" />
+    <Content Include="pages\chapter9\lst0920\lst0920.js" />
+    <Content Include="pages\chapter9\lst0924\grapes.PNG" />
+    <Content Include="pages\chapter9\lst0924\lst0924.css" />
+    <Content Include="pages\chapter9\lst0924\lst0924.html" />
+    <Content Include="pages\chapter9\lst0924\lst0924.js" />
+    <Content Include="pages\chapter9\lst0924\orange.PNG" />
+    <Content Include="pages\chapter9\lst0924\peaches.PNG" />
+    <Content Include="pages\chapter9\lst0909\lst0909.css" />
+    <Content Include="pages\chapter9\lst0909\lst0909.html" />
+    <Content Include="pages\chapter9\lst0909\lst0909.js" />
+    <Content Include="pages\chapter9\lst0911\lst0911.css" />
+    <Content Include="pages\chapter9\lst0911\lst0911.html" />
+    <Content Include="pages\chapter9\lst0911\lst0911.js" />
+    <Content Include="pages\chapter9\lst0913\lst0913.css" />
+    <Content Include="pages\chapter9\lst0913\lst0913.html" />
+    <Content Include="pages\chapter9\lst0913\lst0913.js" />
+    <Content Include="pages\chapter9\lst0916\lst0916.css" />
+    <Content Include="pages\chapter9\lst0916\lst0916.html" />
+    <Content Include="pages\chapter9\lst0916\lst0916.js" />
+    <Content Include="pages\chapter9\lst0922\lst0922.css" />
+    <Content Include="pages\chapter9\lst0922\lst0922.html" />
+    <Content Include="pages\chapter9\lst0922\lst0922.js" />
+    <Content Include="pages\chapter9\lst0926\lst0926.css" />
+    <Content Include="pages\chapter9\lst0926\lst0926.html" />
+    <Content Include="pages\chapter9\lst0926\lst0926.js" />
+    <Content Include="pages\chapter9\lst0928\lst0928.css" />
+    <Content Include="pages\chapter9\lst0928\lst0928.html" />
+    <Content Include="pages\chapter9\lst0928\lst0928.js" />
+    <Content Include="pages\chapter9\lst0928\page.html" />
+    <Content Include="pages\chapter\chapter.css" />
+    <Content Include="pages\chapter\chapter.html" />
+    <Content Include="pages\chapter\chapter.js" />
+    <Content Include="pages\home\home.css" />
+    <Content Include="pages\home\home.html" />
+    <Content Include="pages\home\home.js" />
+    <Content Include="default.html" />
+    <None Include="Code_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <SDKReference Include="Microsoft.WinJS.1.0, Version=1.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="pages\chapter10\lst1006\" />
+    <Folder Include="pages\chapter1\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
+  <!-- To modify your build process, add your task inside one of the targets below then uncomment
+       that target and the DisableFastUpToDateCheck PropertyGroup. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  <PropertyGroup>
+    <DisableFastUpToDateCheck>true</DisableFastUpToDateCheck>
+  </PropertyGroup>
+  -->
+</Project>

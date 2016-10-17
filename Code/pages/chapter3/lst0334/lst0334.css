@@ -1,0 +1,24 @@
+﻿.lst0334 #myTable {
+    border-collapse: collapse;
+    width:400px;
+}
+
+.lst0334 #myTable td {
+    padding:5px;
+}
+
+/*.lst0334 #myTable tr {
+    background-color: gray;
+}
+
+.lst0334 #myTable tr:first-child {
+    background-color: gray;
+}
+
+.lst0334 #myTable tr:last-child {
+    background-color: gray;
+}*/
+
+.lst0334 #myTable tr:nth-child(2n) {
+    background-color: gray;
+}

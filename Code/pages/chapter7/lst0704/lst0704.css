@@ -1,0 +1,10 @@
+﻿.lst0704 #flexbox {
+    display: -ms-flexbox;
+}
+
+.lst0704 #flexbox > div {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+}

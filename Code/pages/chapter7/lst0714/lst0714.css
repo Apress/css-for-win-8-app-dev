@@ -1,0 +1,37 @@
+﻿.lst0714 .profile {
+    display:-ms-grid;
+    width:1025px;
+    height:576px;
+    -ms-grid-columns: 7fr 14fr 9fr;
+    -ms-grid-rows: 120px 2fr 3fr;
+}
+
+.lst0714 .profile > div {
+    border: 1px solid black;
+    margin: 5px;    
+    padding: 5px;
+    font-size:x-large;
+}
+
+.lst0714 .image {
+    -ms-grid-row-span: 2;
+} 
+
+.lst0714 .section1 {
+    -ms-grid-row: 3;
+}
+
+.lst0714 .section2 {
+    -ms-grid-column: 2;
+    -ms-grid-row-span: 3;
+}
+
+.lst0714 .section3 {
+    -ms-grid-column: 3;
+}
+
+.lst0714 .section4 {
+    -ms-grid-column: 3;
+    -ms-grid-row: 2;
+    -ms-grid-row-span: 2;
+}

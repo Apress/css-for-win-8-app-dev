@@ -1,0 +1,10 @@
+﻿.lst0330 a:hover::after {
+    content: attr(title);
+    background-color: lightyellow;
+    border: 1px solid black;
+    color: black;
+    position:relative;
+    left: 10px;
+    white-space: nowrap;
+    padding: 5px;
+}

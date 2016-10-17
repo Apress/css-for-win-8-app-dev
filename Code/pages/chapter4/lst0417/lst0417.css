@@ -1,0 +1,5 @@
+﻿.lst0417 #columns {
+    columns: 80px;
+    column-gap: 40px;
+    column-rule: 1px solid #ddd;
+}

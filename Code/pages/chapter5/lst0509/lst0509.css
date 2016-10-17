@@ -1,0 +1,19 @@
+﻿
+.lst0509 #parent > div {
+    width: 200px;
+    height: 80px;
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.lst0509 #parent > div:nth-child(1) {
+    margin-left: 5px;
+}
+
+.lst0509 #parent > div:nth-child(2) {
+    margin-left: 50px;
+}
+
+.lst0509 #parent > div:nth-child(3) {
+    margin-left: 100px;
+}

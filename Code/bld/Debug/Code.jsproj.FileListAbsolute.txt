@@ -1,0 +1,13 @@
+C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\bin\Debug\resources.pri
+C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\bin\Debug\AppxManifest.xml
+C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\bin\Debug\Code.build.appxrecipe
+C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\bld\Debug\priconfig.xml
+C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\bld\Debug\layout.resfiles
+C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\bld\Debug\resources.resfiles
+C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\bld\Debug\pri.resfiles
+C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\bld\Debug\LanguageQualifiers.txt
+C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\bld\Debug\ProjectArchitectures.txt
+C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\bld\Debug\priconfig.xml.intermediate
+C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\bld\Debug\layout.resfiles.intermediate
+C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\bld\Debug\resources.resfiles.intermediate
+C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\bld\Debug\pri.resfiles.intermediate

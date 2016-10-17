@@ -1,0 +1,13 @@
+﻿.lst0710 #grid {
+    display: -ms-grid;
+    width: 800px;
+    height: 300px;
+    border: 3px solid lightgray;
+}
+
+.lst0710 #grid > div {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+}

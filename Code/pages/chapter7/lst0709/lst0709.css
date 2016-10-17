@@ -1,0 +1,21 @@
+﻿.lst0709 .swiper {
+    border:2px solid gray;
+    display:-ms-flexbox;
+    height:400px;
+    width:600px;
+    overflow-x:auto;
+    -ms-scroll-snap-x:mandatory snapInterval(0%,80%);
+}
+
+.lst0709 .swiper > div {
+    width: 80%;
+    padding-left:40px;
+    box-sizing: border-box;
+    overflow-y:auto;
+    margin-bottom:16px; /* room for vertical scrollbar */
+    padding-right:16px; /* room for vertical scrollbar */
+}
+
+.lst0709 .swiper > div:last-child {
+    width:100%;
+}

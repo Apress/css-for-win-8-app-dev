@@ -1,0 +1,15 @@
+﻿.lst0708 #flexbox {
+     display: -ms-flexbox;
+     -ms-flex-wrap: wrap;
+     width: 800px;
+     height: 300px;
+     border: 3px solid lightgray;
+     -ms-flex-pack: start;
+}
+
+.lst0708 #flexbox > div {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+}

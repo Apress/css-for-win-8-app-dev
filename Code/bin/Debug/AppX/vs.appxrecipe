@@ -1,0 +1,1661 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JERFOST-X220</Machine>
+    <WindowsUser>jerfost</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>F868373AB52709561E84A557B1D686686E538928C02670269C369F1A3BE2B69F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>CSSBookCode_1.0.0.0_neutral__c621gr1wjqa80</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>CSSBookCode_c621gr1wjqa80!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>CSSBookCode</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=jerfost</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-15T03:43:36.000</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\appendixB\lstb01\lstb01.css">
+      <PackagePath>pages\appendixB\lstb01\lstb01.css</PackagePath>
+      <Modified>2013-01-02T20:45:01.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\appendixB\lstb02\lstb02.css">
+      <PackagePath>pages\appendixB\lstb02\lstb02.css</PackagePath>
+      <Modified>2013-01-02T21:15:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\appendixB\lstb03\lstb03.css">
+      <PackagePath>pages\appendixB\lstb03\lstb03.css</PackagePath>
+      <Modified>2013-01-02T21:15:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\appendixB\lstb04\lstb04.css">
+      <PackagePath>pages\appendixB\lstb04\lstb04.css</PackagePath>
+      <Modified>2013-01-02T22:49:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\appendixB\lstb06\lstb06.css">
+      <PackagePath>pages\appendixB\lstb06\lstb06.css</PackagePath>
+      <Modified>2013-01-03T06:24:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\appendixB\lstb07\lstb07.css">
+      <PackagePath>pages\appendixB\lstb07\lstb07.css</PackagePath>
+      <Modified>2013-01-03T07:08:53.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\appendixB\lstb09\lstb09.css">
+      <PackagePath>pages\appendixB\lstb09\lstb09.css</PackagePath>
+      <Modified>2013-01-03T08:05:31.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\box\box.css">
+      <PackagePath>pages\box\box.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1002\lst1002.css">
+      <PackagePath>pages\chapter10\lst1002\lst1002.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1003\lst1003.css">
+      <PackagePath>pages\chapter10\lst1003\lst1003.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1008\lst1008.css">
+      <PackagePath>pages\chapter10\lst1008\lst1008.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1005\lst1005.css">
+      <PackagePath>pages\chapter10\lst1005\lst1005.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1009\lst1009.css">
+      <PackagePath>pages\chapter10\lst1009\lst1009.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1010\lst1010.css">
+      <PackagePath>pages\chapter10\lst1010\lst1010.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1011\lst1011.css">
+      <PackagePath>pages\chapter10\lst1011\lst1011.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1012\lst1012.css">
+      <PackagePath>pages\chapter10\lst1012\lst1012.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter2\lst0206\lst0206.css">
+      <PackagePath>pages\chapter2\lst0206\lst0206.css</PackagePath>
+      <Modified>2013-02-08T07:33:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter3\lst0313\lst0313.css">
+      <PackagePath>pages\chapter3\lst0313\lst0313.css</PackagePath>
+      <Modified>2013-02-15T01:20:57.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter3\lst0329\lst0329.css">
+      <PackagePath>pages\chapter3\lst0329\lst0329.css</PackagePath>
+      <Modified>2013-02-15T01:28:03.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter3\lst0330\lst0330.css">
+      <PackagePath>pages\chapter3\lst0330\lst0330.css</PackagePath>
+      <Modified>2013-02-15T01:31:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter3\lst0331\lst0331.css">
+      <PackagePath>pages\chapter3\lst0331\lst0331.css</PackagePath>
+      <Modified>2013-02-15T01:34:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter3\lst0334\lst0334.css">
+      <PackagePath>pages\chapter3\lst0334\lst0334.css</PackagePath>
+      <Modified>2013-02-15T01:45:53.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter3\lst0333\lst0333.css">
+      <PackagePath>pages\chapter3\lst0333\lst0333.css</PackagePath>
+      <Modified>2013-02-15T01:39:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter3\lst0332\lst0332.css">
+      <PackagePath>pages\chapter3\lst0332\lst0332.css</PackagePath>
+      <Modified>2013-02-15T01:38:05.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0401\lst0401.css">
+      <PackagePath>pages\chapter4\lst0401\lst0401.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0402\lst0402.css">
+      <PackagePath>pages\chapter4\lst0402\lst0402.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0403\lst0403.css">
+      <PackagePath>pages\chapter4\lst0403\lst0403.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0404\lst0404.css">
+      <PackagePath>pages\chapter4\lst0404\lst0404.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0405\lst0405.css">
+      <PackagePath>pages\chapter4\lst0405\lst0405.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0406\lst0406.css">
+      <PackagePath>pages\chapter4\lst0406\lst0406.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0407\lst0407.css">
+      <PackagePath>pages\chapter4\lst0407\lst0407.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0408\lst0408.css">
+      <PackagePath>pages\chapter4\lst0408\lst0408.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0409\lst0409.css">
+      <PackagePath>pages\chapter4\lst0409\lst0409.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0411\lst0411.css">
+      <PackagePath>pages\chapter4\lst0411\lst0411.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0412\lst0412.css">
+      <PackagePath>pages\chapter4\lst0412\lst0412.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0415\lst0415.css">
+      <PackagePath>pages\chapter4\lst0415\lst0415.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0416\lst0416.css">
+      <PackagePath>pages\chapter4\lst0416\lst0416.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0417\lst0417.css">
+      <PackagePath>pages\chapter4\lst0417\lst0417.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0419\lst0419.css">
+      <PackagePath>pages\chapter4\lst0419\lst0419.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0418\lst0418.css">
+      <PackagePath>pages\chapter4\lst0418\lst0418.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0423\lst0423.css">
+      <PackagePath>pages\chapter4\lst0423\lst0423.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0422\lst0422.css">
+      <PackagePath>pages\chapter4\lst0422\lst0422.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0421\lst0421.css">
+      <PackagePath>pages\chapter4\lst0421\lst0421.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0420\lst0420.css">
+      <PackagePath>pages\chapter4\lst0420\lst0420.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\chapter3.css">
+      <PackagePath>pages\chapter5\chapter3.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0501\lst0501.css">
+      <PackagePath>pages\chapter5\lst0501\lst0501.css</PackagePath>
+      <Modified>2013-02-15T01:50:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0503\lst0503.css">
+      <PackagePath>pages\chapter5\lst0503\lst0503.css</PackagePath>
+      <Modified>2013-02-15T02:00:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0502\lst0502.css">
+      <PackagePath>pages\chapter5\lst0502\lst0502.css</PackagePath>
+      <Modified>2013-02-15T01:56:45.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0506\lst0506.css">
+      <PackagePath>pages\chapter5\lst0506\lst0506.css</PackagePath>
+      <Modified>2013-02-15T02:11:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0505\lst0505.css">
+      <PackagePath>pages\chapter5\lst0505\lst0505.css</PackagePath>
+      <Modified>2013-02-15T02:09:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0504\lst0504.css">
+      <PackagePath>pages\chapter5\lst0504\lst0504.css</PackagePath>
+      <Modified>2013-02-15T02:06:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0507\lst0507.css">
+      <PackagePath>pages\chapter5\lst0507\lst0507.css</PackagePath>
+      <Modified>2013-02-15T02:18:23.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0508\lst0508.css">
+      <PackagePath>pages\chapter5\lst0508\lst0508.css</PackagePath>
+      <Modified>2013-02-15T02:18:23.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0509\lst0509.css">
+      <PackagePath>pages\chapter5\lst0509\lst0509.css</PackagePath>
+      <Modified>2013-02-15T02:25:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0512\lst0512.css">
+      <PackagePath>pages\chapter5\lst0512\lst0512.css</PackagePath>
+      <Modified>2013-02-15T02:20:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0514\lst0514.css">
+      <PackagePath>pages\chapter5\lst0514\lst0514.css</PackagePath>
+      <Modified>2013-02-15T02:23:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0515\lst0515.css">
+      <PackagePath>pages\chapter5\lst0515\lst0515.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0516\lst0516.css">
+      <PackagePath>pages\chapter5\lst0516\lst0516.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0517\lst0517.css">
+      <PackagePath>pages\chapter5\lst0517\lst0517.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0518\lst0518.css">
+      <PackagePath>pages\chapter5\lst0518\lst0518.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0520\lst0520.css">
+      <PackagePath>pages\chapter5\lst0520\lst0520.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0521\lst0521.css">
+      <PackagePath>pages\chapter5\lst0521\lst0521.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0522\lst0522.css">
+      <PackagePath>pages\chapter5\lst0522\lst0522.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0523\lst0523.css">
+      <PackagePath>pages\chapter5\lst0523\lst0523.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0524\lst0524.css">
+      <PackagePath>pages\chapter5\lst0524\lst0524.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\chapter4.css">
+      <PackagePath>pages\chapter6\chapter4.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0601\lst0601.css">
+      <PackagePath>pages\chapter6\lst0601\lst0601.css</PackagePath>
+      <Modified>2013-02-15T02:39:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0602\lst0602.css">
+      <PackagePath>pages\chapter6\lst0602\lst0602.css</PackagePath>
+      <Modified>2013-02-15T02:48:41.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0607\lst0607.css">
+      <PackagePath>pages\chapter6\lst0607\lst0607.css</PackagePath>
+      <Modified>2013-02-15T02:48:41.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0608\lst0608.css">
+      <PackagePath>pages\chapter6\lst0608\lst0608.css</PackagePath>
+      <Modified>2013-02-15T03:21:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0609\lst0609.css">
+      <PackagePath>pages\chapter6\lst0609\lst0609.css</PackagePath>
+      <Modified>2013-02-15T03:21:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0610\lst0610.css">
+      <PackagePath>pages\chapter6\lst0610\lst0610.css</PackagePath>
+      <Modified>2013-02-15T03:23:39.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0611\lst0611.css">
+      <PackagePath>pages\chapter6\lst0611\lst0611.css</PackagePath>
+      <Modified>2013-02-15T03:27:31.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0612\lst0612.css">
+      <PackagePath>pages\chapter6\lst0612\lst0612.css</PackagePath>
+      <Modified>2013-02-15T03:30:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0613\lst0613.css">
+      <PackagePath>pages\chapter6\lst0613\lst0613.css</PackagePath>
+      <Modified>2013-02-15T03:30:35.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0614\lst0614.css">
+      <PackagePath>pages\chapter6\lst0614\lst0614.css</PackagePath>
+      <Modified>2013-02-15T03:34:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0615\lst0615.css">
+      <PackagePath>pages\chapter6\lst0615\lst0615.css</PackagePath>
+      <Modified>2013-02-15T03:34:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0616\lst0616.css">
+      <PackagePath>pages\chapter6\lst0616\lst0616.css</PackagePath>
+      <Modified>2013-02-15T03:34:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0617\lst0617.css">
+      <PackagePath>pages\chapter6\lst0617\lst0617.css</PackagePath>
+      <Modified>2013-02-15T03:34:45.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0621\lst0621.css">
+      <PackagePath>pages\chapter6\lst0621\lst0621.css</PackagePath>
+      <Modified>2013-02-15T03:35:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0622\lst0622.css">
+      <PackagePath>pages\chapter6\lst0622\lst0622.css</PackagePath>
+      <Modified>2013-02-15T03:35:21.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0623\lst0623.css">
+      <PackagePath>pages\chapter6\lst0623\lst0623.css</PackagePath>
+      <Modified>2013-02-15T03:35:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0624\lst0624.css">
+      <PackagePath>pages\chapter6\lst0624\lst0624.css</PackagePath>
+      <Modified>2013-02-15T03:35:43.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0627\lst0627.css">
+      <PackagePath>pages\chapter6\lst0627\lst0627.css</PackagePath>
+      <Modified>2013-02-15T03:43:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0701\lst0701.css">
+      <PackagePath>pages\chapter7\lst0701\lst0701.css</PackagePath>
+      <Modified>2012-10-13T07:37:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0702\lst0702.css">
+      <PackagePath>pages\chapter7\lst0702\lst0702.css</PackagePath>
+      <Modified>2012-10-13T08:11:51.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0703\lst0703.css">
+      <PackagePath>pages\chapter7\lst0703\lst0703.css</PackagePath>
+      <Modified>2012-10-13T21:49:03.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0704\lst0704.css">
+      <PackagePath>pages\chapter7\lst0704\lst0704.css</PackagePath>
+      <Modified>2012-10-13T21:52:05.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0705\lst0705.css">
+      <PackagePath>pages\chapter7\lst0705\lst0705.css</PackagePath>
+      <Modified>2012-10-13T21:56:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0706\lst0706.css">
+      <PackagePath>pages\chapter7\lst0706\lst0706.css</PackagePath>
+      <Modified>2012-10-13T22:01:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0707\lst0707.css">
+      <PackagePath>pages\chapter7\lst0707\lst0707.css</PackagePath>
+      <Modified>2012-10-13T22:07:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0708\lst0708.css">
+      <PackagePath>pages\chapter7\lst0708\lst0708.css</PackagePath>
+      <Modified>2012-10-13T22:09:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0709\lst0709.css">
+      <PackagePath>pages\chapter7\lst0709\lst0709.css</PackagePath>
+      <Modified>2012-12-03T07:21:57.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0710\lst0710.css">
+      <PackagePath>pages\chapter7\lst0710\lst0710.css</PackagePath>
+      <Modified>2012-12-03T04:12:27.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0711\lst0711.css">
+      <PackagePath>pages\chapter7\lst0711\lst0711.css</PackagePath>
+      <Modified>2012-12-03T04:11:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0713\lst0713.css">
+      <PackagePath>pages\chapter7\lst0713\lst0713.css</PackagePath>
+      <Modified>2012-12-03T04:09:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0712\lst0712.css">
+      <PackagePath>pages\chapter7\lst0712\lst0712.css</PackagePath>
+      <Modified>2012-12-03T04:10:07.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0714\lst0714.css">
+      <PackagePath>pages\chapter7\lst0714\lst0714.css</PackagePath>
+      <Modified>2012-12-05T21:05:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0715\lst0715.css">
+      <PackagePath>pages\chapter7\lst0715\lst0715.css</PackagePath>
+      <Modified>2012-12-03T07:08:45.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0717\lst0717.css">
+      <PackagePath>pages\chapter7\lst0717\lst0717.css</PackagePath>
+      <Modified>2012-12-03T07:21:57.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0716\lst0716.css">
+      <PackagePath>pages\chapter7\lst0716\lst0716.css</PackagePath>
+      <Modified>2012-12-03T07:21:57.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter8\lst0801\lst0801.css">
+      <PackagePath>pages\chapter8\lst0801\lst0801.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter8\lst0802\lst0802.css">
+      <PackagePath>pages\chapter8\lst0802\lst0802.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter8\lst0803\lst0803.css">
+      <PackagePath>pages\chapter8\lst0803\lst0803.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter8\lst0813\lst0813.css">
+      <PackagePath>pages\chapter8\lst0813\lst0813.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter8\lst0804\lst0804.css">
+      <PackagePath>pages\chapter8\lst0804\lst0804.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter8\lst0808\lst0808.css">
+      <PackagePath>pages\chapter8\lst0808\lst0808.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter8\lst0810\lst0810.css">
+      <PackagePath>pages\chapter8\lst0810\lst0810.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0901\lst0901.css">
+      <PackagePath>pages\chapter9\lst0901\lst0901.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0902\lst0902.css">
+      <PackagePath>pages\chapter9\lst0902\lst0902.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0903\lst0903.css">
+      <PackagePath>pages\chapter9\lst0903\lst0903.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0904\lst0904.css">
+      <PackagePath>pages\chapter9\lst0904\lst0904.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0905\lst0905.css">
+      <PackagePath>pages\chapter9\lst0905\lst0905.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0906\lst0906.css">
+      <PackagePath>pages\chapter9\lst0906\lst0906.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0907\lst0907.css">
+      <PackagePath>pages\chapter9\lst0907\lst0907.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0908\lst0908.css">
+      <PackagePath>pages\chapter9\lst0908\lst0908.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0920\lst0920.css">
+      <PackagePath>pages\chapter9\lst0920\lst0920.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0924\lst0924.css">
+      <PackagePath>pages\chapter9\lst0924\lst0924.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0909\lst0909.css">
+      <PackagePath>pages\chapter9\lst0909\lst0909.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0911\lst0911.css">
+      <PackagePath>pages\chapter9\lst0911\lst0911.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0913\lst0913.css">
+      <PackagePath>pages\chapter9\lst0913\lst0913.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0916\lst0916.css">
+      <PackagePath>pages\chapter9\lst0916\lst0916.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0922\lst0922.css">
+      <PackagePath>pages\chapter9\lst0922\lst0922.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0926\lst0926.css">
+      <PackagePath>pages\chapter9\lst0926\lst0926.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0928\lst0928.css">
+      <PackagePath>pages\chapter9\lst0928\lst0928.css</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter\chapter.css">
+      <PackagePath>pages\chapter\chapter.css</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2013-02-09T17:49:35.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\images\chapterTileBackground.png">
+      <PackagePath>images\chapterTileBackground.png</PackagePath>
+      <Modified>2013-02-08T08:01:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\images\cover.png">
+      <PackagePath>images\cover.png</PackagePath>
+      <Modified>2013-02-08T07:35:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-11T06:29:01.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-11T06:36:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-11T06:09:37.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-11T06:36:07.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\images\win8logo.png">
+      <PackagePath>images\win8logo.png</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0924\grapes.PNG">
+      <PackagePath>pages\chapter9\lst0924\grapes.PNG</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0924\orange.PNG">
+      <PackagePath>pages\chapter9\lst0924\orange.PNG</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0924\peaches.PNG">
+      <PackagePath>pages\chapter9\lst0924\peaches.PNG</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\images\chicken_disabled_empty.svg">
+      <PackagePath>images\chicken_disabled_empty.svg</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\images\chicken_disabled_full.svg">
+      <PackagePath>images\chicken_disabled_full.svg</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\images\chicken_empty.svg">
+      <PackagePath>images\chicken_empty.svg</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\images\chicken_full.svg">
+      <PackagePath>images\chicken_full.svg</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\appendixB\lstb06\sailboat.svg">
+      <PackagePath>pages\appendixB\lstb06\sailboat.svg</PackagePath>
+      <Modified>2013-01-03T02:32:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\appendixB\lstb07\paint.svg">
+      <PackagePath>pages\appendixB\lstb07\paint.svg</PackagePath>
+      <Modified>2013-01-03T06:37:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2013-02-09T17:50:15.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\js\ocho.js">
+      <PackagePath>js\ocho.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\appendixB\lstb01\lstb01.js">
+      <PackagePath>pages\appendixB\lstb01\lstb01.js</PackagePath>
+      <Modified>2013-01-02T20:43:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\appendixB\lstb02\lstb02.js">
+      <PackagePath>pages\appendixB\lstb02\lstb02.js</PackagePath>
+      <Modified>2013-02-15T03:41:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\appendixB\lstb03\lstb03.js">
+      <PackagePath>pages\appendixB\lstb03\lstb03.js</PackagePath>
+      <Modified>2013-01-02T22:45:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\appendixB\lstb04\lstb04.js">
+      <PackagePath>pages\appendixB\lstb04\lstb04.js</PackagePath>
+      <Modified>2013-01-02T22:49:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\appendixB\lstb06\lstb06.js">
+      <PackagePath>pages\appendixB\lstb06\lstb06.js</PackagePath>
+      <Modified>2013-01-03T02:57:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\appendixB\lstb07\lstb07.js">
+      <PackagePath>pages\appendixB\lstb07\lstb07.js</PackagePath>
+      <Modified>2013-01-03T07:56:19.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\appendixB\lstb09\lstb09.js">
+      <PackagePath>pages\appendixB\lstb09\lstb09.js</PackagePath>
+      <Modified>2013-01-03T08:44:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\box\box.js">
+      <PackagePath>pages\box\box.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1002\lst1002.js">
+      <PackagePath>pages\chapter10\lst1002\lst1002.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1003\lst1003.js">
+      <PackagePath>pages\chapter10\lst1003\lst1003.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1008\lst1008.js">
+      <PackagePath>pages\chapter10\lst1008\lst1008.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1005\lst1005.js">
+      <PackagePath>pages\chapter10\lst1005\lst1005.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1009\lst1009.js">
+      <PackagePath>pages\chapter10\lst1009\lst1009.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1010\lst1010.js">
+      <PackagePath>pages\chapter10\lst1010\lst1010.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1011\lst1011.js">
+      <PackagePath>pages\chapter10\lst1011\lst1011.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1012\AddressControl.js">
+      <PackagePath>pages\chapter10\lst1012\AddressControl.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1012\lst1012.js">
+      <PackagePath>pages\chapter10\lst1012\lst1012.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter2\lst0206\lst0206.js">
+      <PackagePath>pages\chapter2\lst0206\lst0206.js</PackagePath>
+      <Modified>2013-02-08T07:33:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter3\lst0313\lst0313.js">
+      <PackagePath>pages\chapter3\lst0313\lst0313.js</PackagePath>
+      <Modified>2013-02-15T01:20:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter3\lst0329\lst0329.js">
+      <PackagePath>pages\chapter3\lst0329\lst0329.js</PackagePath>
+      <Modified>2013-02-15T01:26:27.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter3\lst0330\lst0330.js">
+      <PackagePath>pages\chapter3\lst0330\lst0330.js</PackagePath>
+      <Modified>2013-02-15T01:31:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter3\lst0331\lst0331.js">
+      <PackagePath>pages\chapter3\lst0331\lst0331.js</PackagePath>
+      <Modified>2013-02-15T03:41:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter3\lst0334\lst0334.js">
+      <PackagePath>pages\chapter3\lst0334\lst0334.js</PackagePath>
+      <Modified>2013-02-15T01:43:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter3\lst0333\lst0333.js">
+      <PackagePath>pages\chapter3\lst0333\lst0333.js</PackagePath>
+      <Modified>2013-02-15T01:39:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter3\lst0332\lst0332.js">
+      <PackagePath>pages\chapter3\lst0332\lst0332.js</PackagePath>
+      <Modified>2013-02-15T01:38:05.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0401\lst0401.js">
+      <PackagePath>pages\chapter4\lst0401\lst0401.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0402\lst0402.js">
+      <PackagePath>pages\chapter4\lst0402\lst0402.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0403\lst0403.js">
+      <PackagePath>pages\chapter4\lst0403\lst0403.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0404\lst0404.js">
+      <PackagePath>pages\chapter4\lst0404\lst0404.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0405\lst0405.js">
+      <PackagePath>pages\chapter4\lst0405\lst0405.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0406\lst0406.js">
+      <PackagePath>pages\chapter4\lst0406\lst0406.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0407\lst0407.js">
+      <PackagePath>pages\chapter4\lst0407\lst0407.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0408\lst0408.js">
+      <PackagePath>pages\chapter4\lst0408\lst0408.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0409\lst0409.js">
+      <PackagePath>pages\chapter4\lst0409\lst0409.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0411\lst0411.js">
+      <PackagePath>pages\chapter4\lst0411\lst0411.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0412\lst0412.js">
+      <PackagePath>pages\chapter4\lst0412\lst0412.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0415\lst0415.js">
+      <PackagePath>pages\chapter4\lst0415\lst0415.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0416\lst0416.js">
+      <PackagePath>pages\chapter4\lst0416\lst0416.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0417\lst0417.js">
+      <PackagePath>pages\chapter4\lst0417\lst0417.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0419\lst0419.js">
+      <PackagePath>pages\chapter4\lst0419\lst0419.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0418\lst0418.js">
+      <PackagePath>pages\chapter4\lst0418\lst0418.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0423\lst0423.js">
+      <PackagePath>pages\chapter4\lst0423\lst0423.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0422\lst0422.js">
+      <PackagePath>pages\chapter4\lst0422\lst0422.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0421\lst0421.js">
+      <PackagePath>pages\chapter4\lst0421\lst0421.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0420\lst0420.js">
+      <PackagePath>pages\chapter4\lst0420\lst0420.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\chapter3.js">
+      <PackagePath>pages\chapter5\chapter3.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0501\lst0501.js">
+      <PackagePath>pages\chapter5\lst0501\lst0501.js</PackagePath>
+      <Modified>2013-02-15T01:50:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0503\lst0503.js">
+      <PackagePath>pages\chapter5\lst0503\lst0503.js</PackagePath>
+      <Modified>2013-02-15T02:00:37.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0502\lst0502.js">
+      <PackagePath>pages\chapter5\lst0502\lst0502.js</PackagePath>
+      <Modified>2013-02-15T01:56:45.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0506\lst0506.js">
+      <PackagePath>pages\chapter5\lst0506\lst0506.js</PackagePath>
+      <Modified>2013-02-15T02:11:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0505\lst0505.js">
+      <PackagePath>pages\chapter5\lst0505\lst0505.js</PackagePath>
+      <Modified>2013-02-15T02:08:51.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0504\lst0504.js">
+      <PackagePath>pages\chapter5\lst0504\lst0504.js</PackagePath>
+      <Modified>2013-02-15T02:08:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0507\lst0507.js">
+      <PackagePath>pages\chapter5\lst0507\lst0507.js</PackagePath>
+      <Modified>2013-02-15T02:16:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0508\lst0508.js">
+      <PackagePath>pages\chapter5\lst0508\lst0508.js</PackagePath>
+      <Modified>2013-02-15T02:16:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0509\lst0509.js">
+      <PackagePath>pages\chapter5\lst0509\lst0509.js</PackagePath>
+      <Modified>2013-02-15T02:16:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0512\lst0512.js">
+      <PackagePath>pages\chapter5\lst0512\lst0512.js</PackagePath>
+      <Modified>2013-02-15T02:16:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0514\lst0514.js">
+      <PackagePath>pages\chapter5\lst0514\lst0514.js</PackagePath>
+      <Modified>2013-02-15T02:16:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0515\lst0515.js">
+      <PackagePath>pages\chapter5\lst0515\lst0515.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0516\lst0516.js">
+      <PackagePath>pages\chapter5\lst0516\lst0516.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0517\lst0517.js">
+      <PackagePath>pages\chapter5\lst0517\lst0517.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0518\lst0518.js">
+      <PackagePath>pages\chapter5\lst0518\lst0518.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0520\lst0520.js">
+      <PackagePath>pages\chapter5\lst0520\lst0520.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0521\lst0521.js">
+      <PackagePath>pages\chapter5\lst0521\lst0521.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0522\lst0522.js">
+      <PackagePath>pages\chapter5\lst0522\lst0522.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0523\lst0523.js">
+      <PackagePath>pages\chapter5\lst0523\lst0523.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0524\lst0524.js">
+      <PackagePath>pages\chapter5\lst0524\lst0524.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\chapter4.js">
+      <PackagePath>pages\chapter6\chapter4.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0601\lst0601.js">
+      <PackagePath>pages\chapter6\lst0601\lst0601.js</PackagePath>
+      <Modified>2013-02-15T02:35:27.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0602\lst0602.js">
+      <PackagePath>pages\chapter6\lst0602\lst0602.js</PackagePath>
+      <Modified>2013-02-15T02:35:27.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0607\lst0607.js">
+      <PackagePath>pages\chapter6\lst0607\lst0607.js</PackagePath>
+      <Modified>2013-02-15T02:35:27.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0608\lst0608.js">
+      <PackagePath>pages\chapter6\lst0608\lst0608.js</PackagePath>
+      <Modified>2013-02-15T03:17:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0609\lst0609.js">
+      <PackagePath>pages\chapter6\lst0609\lst0609.js</PackagePath>
+      <Modified>2013-02-15T03:17:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0610\lst0610.js">
+      <PackagePath>pages\chapter6\lst0610\lst0610.js</PackagePath>
+      <Modified>2013-02-15T03:17:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0611\lst0611.js">
+      <PackagePath>pages\chapter6\lst0611\lst0611.js</PackagePath>
+      <Modified>2013-02-15T03:17:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0612\lst0612.js">
+      <PackagePath>pages\chapter6\lst0612\lst0612.js</PackagePath>
+      <Modified>2013-02-15T03:28:59.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0613\lst0613.js">
+      <PackagePath>pages\chapter6\lst0613\lst0613.js</PackagePath>
+      <Modified>2013-02-15T03:41:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0614\lst0614.js">
+      <PackagePath>pages\chapter6\lst0614\lst0614.js</PackagePath>
+      <Modified>2013-02-15T03:41:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0615\lst0615.js">
+      <PackagePath>pages\chapter6\lst0615\lst0615.js</PackagePath>
+      <Modified>2013-02-15T03:41:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0616\lst0616.js">
+      <PackagePath>pages\chapter6\lst0616\lst0616.js</PackagePath>
+      <Modified>2013-02-15T03:41:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0617\lst0617.js">
+      <PackagePath>pages\chapter6\lst0617\lst0617.js</PackagePath>
+      <Modified>2013-02-15T03:41:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0621\lst0621.js">
+      <PackagePath>pages\chapter6\lst0621\lst0621.js</PackagePath>
+      <Modified>2013-02-15T03:41:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0622\lst0622.js">
+      <PackagePath>pages\chapter6\lst0622\lst0622.js</PackagePath>
+      <Modified>2013-02-15T03:41:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0623\lst0623.js">
+      <PackagePath>pages\chapter6\lst0623\lst0623.js</PackagePath>
+      <Modified>2013-02-15T03:41:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0624\lst0624.js">
+      <PackagePath>pages\chapter6\lst0624\lst0624.js</PackagePath>
+      <Modified>2013-02-15T03:41:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0627\lst0627.js">
+      <PackagePath>pages\chapter6\lst0627\lst0627.js</PackagePath>
+      <Modified>2013-02-21T19:49:05.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0701\lst0701.js">
+      <PackagePath>pages\chapter7\lst0701\lst0701.js</PackagePath>
+      <Modified>2012-10-13T22:16:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0702\lst0702.js">
+      <PackagePath>pages\chapter7\lst0702\lst0702.js</PackagePath>
+      <Modified>2012-10-13T22:16:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0703\lst0703.js">
+      <PackagePath>pages\chapter7\lst0703\lst0703.js</PackagePath>
+      <Modified>2012-10-13T22:16:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0704\lst0704.js">
+      <PackagePath>pages\chapter7\lst0704\lst0704.js</PackagePath>
+      <Modified>2012-10-13T22:16:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0705\lst0705.js">
+      <PackagePath>pages\chapter7\lst0705\lst0705.js</PackagePath>
+      <Modified>2012-10-13T22:16:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0706\lst0706.js">
+      <PackagePath>pages\chapter7\lst0706\lst0706.js</PackagePath>
+      <Modified>2012-10-13T22:16:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0707\lst0707.js">
+      <PackagePath>pages\chapter7\lst0707\lst0707.js</PackagePath>
+      <Modified>2012-10-13T22:16:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0708\lst0708.js">
+      <PackagePath>pages\chapter7\lst0708\lst0708.js</PackagePath>
+      <Modified>2012-10-13T22:16:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0709\lst0709.js">
+      <PackagePath>pages\chapter7\lst0709\lst0709.js</PackagePath>
+      <Modified>2012-12-17T04:24:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0710\lst0710.js">
+      <PackagePath>pages\chapter7\lst0710\lst0710.js</PackagePath>
+      <Modified>2012-12-03T04:12:27.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0711\lst0711.js">
+      <PackagePath>pages\chapter7\lst0711\lst0711.js</PackagePath>
+      <Modified>2012-12-03T04:11:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0713\lst0713.js">
+      <PackagePath>pages\chapter7\lst0713\lst0713.js</PackagePath>
+      <Modified>2012-12-03T04:09:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0712\lst0712.js">
+      <PackagePath>pages\chapter7\lst0712\lst0712.js</PackagePath>
+      <Modified>2012-12-03T04:11:43.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0714\lst0714.js">
+      <PackagePath>pages\chapter7\lst0714\lst0714.js</PackagePath>
+      <Modified>2012-12-03T07:49:33.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0715\lst0715.js">
+      <PackagePath>pages\chapter7\lst0715\lst0715.js</PackagePath>
+      <Modified>2012-12-03T07:08:45.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0717\lst0717.js">
+      <PackagePath>pages\chapter7\lst0717\lst0717.js</PackagePath>
+      <Modified>2012-12-03T07:06:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0716\lst0716.js">
+      <PackagePath>pages\chapter7\lst0716\lst0716.js</PackagePath>
+      <Modified>2012-12-03T07:07:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter8\lst0801\lst0801.js">
+      <PackagePath>pages\chapter8\lst0801\lst0801.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter8\lst0802\lst0802.js">
+      <PackagePath>pages\chapter8\lst0802\lst0802.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter8\lst0803\lst0803.js">
+      <PackagePath>pages\chapter8\lst0803\lst0803.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter8\lst0813\lst0813.js">
+      <PackagePath>pages\chapter8\lst0813\lst0813.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter8\lst0804\lst0804.js">
+      <PackagePath>pages\chapter8\lst0804\lst0804.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter8\lst0808\lst0808.js">
+      <PackagePath>pages\chapter8\lst0808\lst0808.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter8\lst0810\lst0810.js">
+      <PackagePath>pages\chapter8\lst0810\lst0810.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0901\lst0901.js">
+      <PackagePath>pages\chapter9\lst0901\lst0901.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0902\lst0902.js">
+      <PackagePath>pages\chapter9\lst0902\lst0902.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0903\lst0903.js">
+      <PackagePath>pages\chapter9\lst0903\lst0903.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0904\lst0904.js">
+      <PackagePath>pages\chapter9\lst0904\lst0904.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0905\lst0905.js">
+      <PackagePath>pages\chapter9\lst0905\lst0905.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0906\lst0906.js">
+      <PackagePath>pages\chapter9\lst0906\lst0906.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0907\lst0907.js">
+      <PackagePath>pages\chapter9\lst0907\lst0907.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0908\lst0908.js">
+      <PackagePath>pages\chapter9\lst0908\lst0908.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0920\lst0920.js">
+      <PackagePath>pages\chapter9\lst0920\lst0920.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0924\lst0924.js">
+      <PackagePath>pages\chapter9\lst0924\lst0924.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0909\lst0909.js">
+      <PackagePath>pages\chapter9\lst0909\lst0909.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0911\lst0911.js">
+      <PackagePath>pages\chapter9\lst0911\lst0911.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0913\lst0913.js">
+      <PackagePath>pages\chapter9\lst0913\lst0913.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0916\lst0916.js">
+      <PackagePath>pages\chapter9\lst0916\lst0916.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0922\lst0922.js">
+      <PackagePath>pages\chapter9\lst0922\lst0922.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0926\lst0926.js">
+      <PackagePath>pages\chapter9\lst0926\lst0926.js</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0928\lst0928.js">
+      <PackagePath>pages\chapter9\lst0928\lst0928.js</PackagePath>
+      <Modified>2013-02-15T03:41:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter\chapter.js">
+      <PackagePath>pages\chapter\chapter.js</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2013-02-08T08:23:33.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\appendixB\lstb01\lstb01.html">
+      <PackagePath>pages\appendixB\lstb01\lstb01.html</PackagePath>
+      <Modified>2013-01-02T21:15:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\appendixB\lstb02\lstb02.html">
+      <PackagePath>pages\appendixB\lstb02\lstb02.html</PackagePath>
+      <Modified>2013-01-02T21:15:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\appendixB\lstb03\lstb03.html">
+      <PackagePath>pages\appendixB\lstb03\lstb03.html</PackagePath>
+      <Modified>2013-01-02T22:45:19.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\appendixB\lstb04\lstb04.html">
+      <PackagePath>pages\appendixB\lstb04\lstb04.html</PackagePath>
+      <Modified>2013-01-02T22:49:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\appendixB\lstb06\lstb06.html">
+      <PackagePath>pages\appendixB\lstb06\lstb06.html</PackagePath>
+      <Modified>2013-01-03T03:06:35.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\appendixB\lstb07\lstb07.html">
+      <PackagePath>pages\appendixB\lstb07\lstb07.html</PackagePath>
+      <Modified>2013-01-03T07:50:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\appendixB\lstb09\lstb09.html">
+      <PackagePath>pages\appendixB\lstb09\lstb09.html</PackagePath>
+      <Modified>2013-01-03T08:05:31.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\box\box.html">
+      <PackagePath>pages\box\box.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1002\lst1002.html">
+      <PackagePath>pages\chapter10\lst1002\lst1002.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1003\lst1003.html">
+      <PackagePath>pages\chapter10\lst1003\lst1003.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1008\lst1008.html">
+      <PackagePath>pages\chapter10\lst1008\lst1008.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1005\lst1005.html">
+      <PackagePath>pages\chapter10\lst1005\lst1005.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1009\lst1009.html">
+      <PackagePath>pages\chapter10\lst1009\lst1009.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1010\lst1010.html">
+      <PackagePath>pages\chapter10\lst1010\lst1010.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1011\lst1011.html">
+      <PackagePath>pages\chapter10\lst1011\lst1011.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter10\lst1012\lst1012.html">
+      <PackagePath>pages\chapter10\lst1012\lst1012.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter2\lst0206\lst0206.html">
+      <PackagePath>pages\chapter2\lst0206\lst0206.html</PackagePath>
+      <Modified>2013-02-08T07:33:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter3\lst0313\lst0313.html">
+      <PackagePath>pages\chapter3\lst0313\lst0313.html</PackagePath>
+      <Modified>2013-02-15T01:20:57.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter3\lst0329\lst0329.html">
+      <PackagePath>pages\chapter3\lst0329\lst0329.html</PackagePath>
+      <Modified>2013-02-15T01:26:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter3\lst0330\lst0330.html">
+      <PackagePath>pages\chapter3\lst0330\lst0330.html</PackagePath>
+      <Modified>2013-02-15T01:32:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter3\lst0331\lst0331.html">
+      <PackagePath>pages\chapter3\lst0331\lst0331.html</PackagePath>
+      <Modified>2013-02-15T01:34:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter3\lst0334\lst0334.html">
+      <PackagePath>pages\chapter3\lst0334\lst0334.html</PackagePath>
+      <Modified>2013-02-15T01:46:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter3\lst0333\lst0333.html">
+      <PackagePath>pages\chapter3\lst0333\lst0333.html</PackagePath>
+      <Modified>2013-02-15T01:39:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter3\lst0332\lst0332.html">
+      <PackagePath>pages\chapter3\lst0332\lst0332.html</PackagePath>
+      <Modified>2013-02-15T01:37:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0401\lst0401.html">
+      <PackagePath>pages\chapter4\lst0401\lst0401.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0402\lst0402.html">
+      <PackagePath>pages\chapter4\lst0402\lst0402.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0403\lst0403.html">
+      <PackagePath>pages\chapter4\lst0403\lst0403.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0404\lst0404.html">
+      <PackagePath>pages\chapter4\lst0404\lst0404.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0405\lst0405.html">
+      <PackagePath>pages\chapter4\lst0405\lst0405.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0406\lst0406.html">
+      <PackagePath>pages\chapter4\lst0406\lst0406.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0407\lst0407.html">
+      <PackagePath>pages\chapter4\lst0407\lst0407.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0408\lst0408.html">
+      <PackagePath>pages\chapter4\lst0408\lst0408.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0409\lst0409.html">
+      <PackagePath>pages\chapter4\lst0409\lst0409.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0411\lst0411.html">
+      <PackagePath>pages\chapter4\lst0411\lst0411.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0412\lst0412.html">
+      <PackagePath>pages\chapter4\lst0412\lst0412.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0415\lst0415.html">
+      <PackagePath>pages\chapter4\lst0415\lst0415.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0416\lst0416.html">
+      <PackagePath>pages\chapter4\lst0416\lst0416.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0417\lst0417.html">
+      <PackagePath>pages\chapter4\lst0417\lst0417.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0419\lst0419.html">
+      <PackagePath>pages\chapter4\lst0419\lst0419.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0418\lst0418.html">
+      <PackagePath>pages\chapter4\lst0418\lst0418.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0423\lst0423.html">
+      <PackagePath>pages\chapter4\lst0423\lst0423.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0422\lst0422.html">
+      <PackagePath>pages\chapter4\lst0422\lst0422.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0421\lst0421.html">
+      <PackagePath>pages\chapter4\lst0421\lst0421.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter4\lst0420\lst0420.html">
+      <PackagePath>pages\chapter4\lst0420\lst0420.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\chapter3.html">
+      <PackagePath>pages\chapter5\chapter3.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0501\lst0501.html">
+      <PackagePath>pages\chapter5\lst0501\lst0501.html</PackagePath>
+      <Modified>2013-02-15T01:49:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0503\lst0503.html">
+      <PackagePath>pages\chapter5\lst0503\lst0503.html</PackagePath>
+      <Modified>2013-02-15T02:00:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0502\lst0502.html">
+      <PackagePath>pages\chapter5\lst0502\lst0502.html</PackagePath>
+      <Modified>2013-02-15T01:51:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0506\lst0506.html">
+      <PackagePath>pages\chapter5\lst0506\lst0506.html</PackagePath>
+      <Modified>2013-02-15T02:22:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0505\lst0505.html">
+      <PackagePath>pages\chapter5\lst0505\lst0505.html</PackagePath>
+      <Modified>2013-02-15T02:09:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0504\lst0504.html">
+      <PackagePath>pages\chapter5\lst0504\lst0504.html</PackagePath>
+      <Modified>2013-02-15T02:07:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0507\lst0507.html">
+      <PackagePath>pages\chapter5\lst0507\lst0507.html</PackagePath>
+      <Modified>2013-02-15T02:25:15.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0508\lst0508.html">
+      <PackagePath>pages\chapter5\lst0508\lst0508.html</PackagePath>
+      <Modified>2013-02-15T02:25:15.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0509\lst0509.html">
+      <PackagePath>pages\chapter5\lst0509\lst0509.html</PackagePath>
+      <Modified>2013-02-15T02:25:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0512\lst0512.html">
+      <PackagePath>pages\chapter5\lst0512\lst0512.html</PackagePath>
+      <Modified>2013-02-15T02:25:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0514\lst0514.html">
+      <PackagePath>pages\chapter5\lst0514\lst0514.html</PackagePath>
+      <Modified>2013-02-15T02:25:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0515\lst0515.html">
+      <PackagePath>pages\chapter5\lst0515\lst0515.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0516\lst0516.html">
+      <PackagePath>pages\chapter5\lst0516\lst0516.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0517\lst0517.html">
+      <PackagePath>pages\chapter5\lst0517\lst0517.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0518\lst0518.html">
+      <PackagePath>pages\chapter5\lst0518\lst0518.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0520\lst0520.html">
+      <PackagePath>pages\chapter5\lst0520\lst0520.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0521\lst0521.html">
+      <PackagePath>pages\chapter5\lst0521\lst0521.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0522\lst0522.html">
+      <PackagePath>pages\chapter5\lst0522\lst0522.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0523\lst0523.html">
+      <PackagePath>pages\chapter5\lst0523\lst0523.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter5\lst0524\lst0524.html">
+      <PackagePath>pages\chapter5\lst0524\lst0524.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\chapter4.html">
+      <PackagePath>pages\chapter6\chapter4.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0601\lst0601.html">
+      <PackagePath>pages\chapter6\lst0601\lst0601.html</PackagePath>
+      <Modified>2013-02-15T02:39:09.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0602\lst0602.html">
+      <PackagePath>pages\chapter6\lst0602\lst0602.html</PackagePath>
+      <Modified>2013-02-15T02:42:35.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0607\lst0607.html">
+      <PackagePath>pages\chapter6\lst0607\lst0607.html</PackagePath>
+      <Modified>2013-02-15T02:48:41.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0608\lst0608.html">
+      <PackagePath>pages\chapter6\lst0608\lst0608.html</PackagePath>
+      <Modified>2013-02-15T03:15:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0609\lst0609.html">
+      <PackagePath>pages\chapter6\lst0609\lst0609.html</PackagePath>
+      <Modified>2013-02-15T03:24:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0610\lst0610.html">
+      <PackagePath>pages\chapter6\lst0610\lst0610.html</PackagePath>
+      <Modified>2013-02-15T03:24:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0611\lst0611.html">
+      <PackagePath>pages\chapter6\lst0611\lst0611.html</PackagePath>
+      <Modified>2013-02-15T03:26:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0612\lst0612.html">
+      <PackagePath>pages\chapter6\lst0612\lst0612.html</PackagePath>
+      <Modified>2013-02-15T03:28:59.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0613\lst0613.html">
+      <PackagePath>pages\chapter6\lst0613\lst0613.html</PackagePath>
+      <Modified>2013-02-15T03:38:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0614\lst0614.html">
+      <PackagePath>pages\chapter6\lst0614\lst0614.html</PackagePath>
+      <Modified>2013-02-15T03:38:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0615\lst0615.html">
+      <PackagePath>pages\chapter6\lst0615\lst0615.html</PackagePath>
+      <Modified>2013-02-15T03:38:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0616\lst0616.html">
+      <PackagePath>pages\chapter6\lst0616\lst0616.html</PackagePath>
+      <Modified>2013-02-15T03:38:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0617\lst0617.html">
+      <PackagePath>pages\chapter6\lst0617\lst0617.html</PackagePath>
+      <Modified>2013-02-15T03:38:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0621\lst0621.html">
+      <PackagePath>pages\chapter6\lst0621\lst0621.html</PackagePath>
+      <Modified>2013-02-15T03:38:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0622\lst0622.html">
+      <PackagePath>pages\chapter6\lst0622\lst0622.html</PackagePath>
+      <Modified>2013-02-15T03:38:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0623\lst0623.html">
+      <PackagePath>pages\chapter6\lst0623\lst0623.html</PackagePath>
+      <Modified>2013-02-15T03:38:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0624\lst0624.html">
+      <PackagePath>pages\chapter6\lst0624\lst0624.html</PackagePath>
+      <Modified>2013-02-15T03:38:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter6\lst0627\lst0627.html">
+      <PackagePath>pages\chapter6\lst0627\lst0627.html</PackagePath>
+      <Modified>2013-02-15T03:43:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0701\lst0701.html">
+      <PackagePath>pages\chapter7\lst0701\lst0701.html</PackagePath>
+      <Modified>2013-02-08T08:06:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0702\lst0702.html">
+      <PackagePath>pages\chapter7\lst0702\lst0702.html</PackagePath>
+      <Modified>2013-02-08T08:06:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0703\lst0703.html">
+      <PackagePath>pages\chapter7\lst0703\lst0703.html</PackagePath>
+      <Modified>2013-02-08T08:06:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0704\lst0704.html">
+      <PackagePath>pages\chapter7\lst0704\lst0704.html</PackagePath>
+      <Modified>2013-02-08T08:06:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0705\lst0705.html">
+      <PackagePath>pages\chapter7\lst0705\lst0705.html</PackagePath>
+      <Modified>2013-02-08T08:06:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0706\lst0706.html">
+      <PackagePath>pages\chapter7\lst0706\lst0706.html</PackagePath>
+      <Modified>2013-02-08T08:06:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0707\lst0707.html">
+      <PackagePath>pages\chapter7\lst0707\lst0707.html</PackagePath>
+      <Modified>2013-02-08T08:06:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0708\lst0708.html">
+      <PackagePath>pages\chapter7\lst0708\lst0708.html</PackagePath>
+      <Modified>2013-02-08T08:06:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0709\lst0709.html">
+      <PackagePath>pages\chapter7\lst0709\lst0709.html</PackagePath>
+      <Modified>2012-12-03T06:31:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0710\lst0710.html">
+      <PackagePath>pages\chapter7\lst0710\lst0710.html</PackagePath>
+      <Modified>2012-12-03T04:16:09.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0711\lst0711.html">
+      <PackagePath>pages\chapter7\lst0711\lst0711.html</PackagePath>
+      <Modified>2012-12-03T04:11:43.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0713\lst0713.html">
+      <PackagePath>pages\chapter7\lst0713\lst0713.html</PackagePath>
+      <Modified>2013-02-08T08:06:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0712\lst0712.html">
+      <PackagePath>pages\chapter7\lst0712\lst0712.html</PackagePath>
+      <Modified>2012-12-03T04:10:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0714\lst0714.html">
+      <PackagePath>pages\chapter7\lst0714\lst0714.html</PackagePath>
+      <Modified>2012-12-05T21:05:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0715\lst0715.html">
+      <PackagePath>pages\chapter7\lst0715\lst0715.html</PackagePath>
+      <Modified>2012-12-03T07:09:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0717\lst0717.html">
+      <PackagePath>pages\chapter7\lst0717\lst0717.html</PackagePath>
+      <Modified>2012-12-03T07:07:05.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter7\lst0716\lst0716.html">
+      <PackagePath>pages\chapter7\lst0716\lst0716.html</PackagePath>
+      <Modified>2012-12-03T07:09:53.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter8\lst0801\lst0801.html">
+      <PackagePath>pages\chapter8\lst0801\lst0801.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter8\lst0802\lst0802.html">
+      <PackagePath>pages\chapter8\lst0802\lst0802.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter8\lst0803\lst0803.html">
+      <PackagePath>pages\chapter8\lst0803\lst0803.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter8\lst0813\lst0813.html">
+      <PackagePath>pages\chapter8\lst0813\lst0813.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter8\lst0804\lst0804.html">
+      <PackagePath>pages\chapter8\lst0804\lst0804.html</PackagePath>
+      <Modified>2013-02-09T17:49:19.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter8\lst0808\lst0808.html">
+      <PackagePath>pages\chapter8\lst0808\lst0808.html</PackagePath>
+      <Modified>2013-02-15T03:16:33.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter8\lst0810\lst0810.html">
+      <PackagePath>pages\chapter8\lst0810\lst0810.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0901\lst0901.html">
+      <PackagePath>pages\chapter9\lst0901\lst0901.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0902\lst0902.html">
+      <PackagePath>pages\chapter9\lst0902\lst0902.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0903\lst0903.html">
+      <PackagePath>pages\chapter9\lst0903\lst0903.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0904\lst0904.html">
+      <PackagePath>pages\chapter9\lst0904\lst0904.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0905\lst0905.html">
+      <PackagePath>pages\chapter9\lst0905\lst0905.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0906\lst0906.html">
+      <PackagePath>pages\chapter9\lst0906\lst0906.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0907\lst0907.html">
+      <PackagePath>pages\chapter9\lst0907\lst0907.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0908\lst0908.html">
+      <PackagePath>pages\chapter9\lst0908\lst0908.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0920\lst0920.html">
+      <PackagePath>pages\chapter9\lst0920\lst0920.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0924\lst0924.html">
+      <PackagePath>pages\chapter9\lst0924\lst0924.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0909\lst0909.html">
+      <PackagePath>pages\chapter9\lst0909\lst0909.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0911\lst0911.html">
+      <PackagePath>pages\chapter9\lst0911\lst0911.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0913\lst0913.html">
+      <PackagePath>pages\chapter9\lst0913\lst0913.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0916\lst0916.html">
+      <PackagePath>pages\chapter9\lst0916\lst0916.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0922\lst0922.html">
+      <PackagePath>pages\chapter9\lst0922\lst0922.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0926\lst0926.html">
+      <PackagePath>pages\chapter9\lst0926\lst0926.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0928\lst0928.html">
+      <PackagePath>pages\chapter9\lst0928\lst0928.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter9\lst0928\page.html">
+      <PackagePath>pages\chapter9\lst0928\page.html</PackagePath>
+      <Modified>2013-02-09T17:46:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\chapter\chapter.html">
+      <PackagePath>pages\chapter\chapter.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2013-02-08T08:13:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-02-09T17:46:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jerfost\SkyDrive\Documents\Development\cssbookcode\cssbookcode\Code\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-02-15T03:43:35.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20512</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20512</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

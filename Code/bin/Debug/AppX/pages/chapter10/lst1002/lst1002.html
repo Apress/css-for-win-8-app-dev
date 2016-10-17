@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Listing 10-2</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-light.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <link href="lst1002.css" rel="stylesheet" />
+    <script src="lst1002.js"></script>
+</head>
+<body>
+    <div class="lst1002 fragment">
+        <section aria-label="Main content" role="main">
+            <div id="list" data-win-control="WinJS.UI.ListView"></div>
+            <div id="template" data-win-control="WinJS.Binding.Template">
+                <div class="grid">
+                    <div data-win-bind="innerText:this"></div>
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
+</html>

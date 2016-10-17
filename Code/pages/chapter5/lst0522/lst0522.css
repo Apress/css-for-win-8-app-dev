@@ -1,0 +1,5 @@
+﻿.lst0522 .gradient {
+    width:400px;
+    height:400px;
+    background-image: radial-gradient(circle at 50% 50%, black 0%, white 100%);
+}

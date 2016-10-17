@@ -1,0 +1,21 @@
+﻿.lst0707 #flexbox {
+    display: -ms-flexbox;
+    -ms-flex-pack: distribute;
+    width: 800px;
+    height: 300px;
+    border: 3px solid lightgray;
+}
+
+.lst0707 #flexbox > div {
+    border: 1px solid black;
+    min-height: 100px;
+    margin: 5px;
+}
+
+    .lst0707 #flexbox > div:nth-child(odd) {
+        -ms-flex: 1;
+    }
+
+    .lst0707 #flexbox > div:nth-child(even) {
+        -ms-flex: 2;
+    }

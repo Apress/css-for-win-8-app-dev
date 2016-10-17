@@ -1,0 +1,33 @@
+﻿.win-rating.chicken .win-star:before
+{
+    content: "";/*hide the default star glyph*/
+}
+
+.lst1010 .win-rating.chicken .win-star 
+{
+    background-repeat: no-repeat;
+    background-origin: content-box; /*to allow putting padding between chickens*/
+    background-position: left;
+    height: 30px;
+    background-size: 100% 100%;
+}
+
+.lst1010 .win-rating.chicken .win-star.win-empty
+{
+    background-image: url("/images/chicken_empty.svg");
+}
+
+.lst1010 .win-rating.chicken .win-star.win-full
+{
+    background-image: url("/images/chicken_full.svg");
+}
+
+.lst1010 .win-rating.chicken .win-star.win-disabled.win-empty 
+{
+    background-image: url("/images/chicken_disabled_empty.svg");
+}
+
+.lst1010 .win-rating.chicken .win-star.win-disabled.win-full 
+{
+    background-image: url("/images/chicken_disabled_full.svg");
+}

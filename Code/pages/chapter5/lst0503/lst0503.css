@@ -1,0 +1,8 @@
+﻿.lst0503 #box {
+    margin: 50px;
+    padding: 50px;
+    border: 50px solid gray;
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+}

@@ -1,0 +1,12 @@
+﻿.lstb03 #parent {
+    display:-ms-grid;
+}
+
+.lstb03 #text {
+    width:300px;
+    
+}
+.lstb03 #graycircle {
+    fill: gray;
+    fill-opacity: 0.5;
+}

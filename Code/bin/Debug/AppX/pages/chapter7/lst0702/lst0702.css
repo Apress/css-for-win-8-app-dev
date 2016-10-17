@@ -1,0 +1,17 @@
+﻿.lst0702 #dpFlexbox {
+    display: -ms-flexbox;
+}
+
+.lst0702 #dpFlexbox > div {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+}
+
+.lst0702 #dpFlexbox > div:nth-of-type(3) {
+    position: relative;
+    background-color: gray;
+    left: 15px;
+    top: 15px;
+}

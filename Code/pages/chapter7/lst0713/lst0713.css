@@ -1,0 +1,19 @@
+﻿.lst0713 #grid {
+    display: -ms-grid;
+    -ms-grid-rows: 120px 1fr;
+    -ms-grid-columns: 120px 1fr 1fr;
+    width: 1000px;
+    height: 540px;
+    border: 3px solid lightgray;
+}
+
+.lst0713 #grid > div {
+    border: 1px solid black;
+    margin: 5px;
+    padding: 10px;
+}
+
+.lst0713 #header { -ms-grid-row: 1; -ms-grid-column: 1; -ms-grid-column-span: 3;}
+.lst0713 #left { -ms-grid-row: 2; -ms-grid-column: 1; }
+.lst0713 #firstHalf { -ms-grid-row: 2; -ms-grid-column: 2; }
+.lst0713 #secondHalf { -ms-grid-row: 2; -ms-grid-column: 3; }

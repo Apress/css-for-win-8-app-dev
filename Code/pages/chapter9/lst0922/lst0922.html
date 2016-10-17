@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Listing 9-22</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-light.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <link href="lst0922.css" rel="stylesheet" />
+    <script src="lst0922.js"></script>
+</head>
+<body>
+    <div class="lst0922 fragment">
+        <section aria-label="Main content" role="main">
+            <div data-win-control="WinJS.UI.SemanticZoom">
+                <div id="list1" data-win-control="WinJS.UI.ListView"></div>
+                <div id="list2" data-win-control="WinJS.UI.ListView"></div>
+            </div>
+            <div id="itemtemplate" data-win-control="WinJS.Binding.Template">
+                <span data-win-bind="innerText:this"></span>
+            </div>
+            <div id="grouptemplate" data-win-control="WinJS.Binding.Template">
+                <h2 data-win-bind="innerText:this"></h2>
+            </div>
+            <div id="semantictemplate" data-win-control="WinJS.Binding.Template">
+                <div data-win-bind="innerText:this"></div>
+            </div>
+        </section>
+    </div>
+</body>
+</html>

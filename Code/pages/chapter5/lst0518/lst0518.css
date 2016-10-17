@@ -1,0 +1,9 @@
+﻿.lst0518 div#container {
+    width:600px;
+    height:400px;
+    border:1px solid gray;
+    background-image: url('/images/win8logo.png');
+    background-size: auto 100px;
+    background-repeat: no-repeat;
+    background-position: center center;
+}

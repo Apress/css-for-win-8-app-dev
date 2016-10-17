@@ -1,0 +1,51 @@
+﻿.homepage {
+    background-image: linear-gradient(to bottom, darkgray 0%, #f6f6f6 30%, #f6f6f6 70%, darkgray 100%);
+}
+.homepage section[role=main] {
+    margin-left: 120px;
+}
+
+.homepage .splitGrid {
+    display:-ms-grid;
+    -ms-grid-columns:1fr 1fr;
+    margin-right:240px;
+}
+
+    .homepage .splitGrid img {
+        -ms-grid-column-align:center;
+    }
+
+    .homepage .splitGrid .win-listview {
+        -ms-grid-column:2;
+    }
+
+    .homepage .tile {
+        background-image: url(/images/chapterTileBackground.png);
+        background-position:bottom;
+        background-repeat: no-repeat;
+        background-clip:padding-box;
+        background-size:cover;
+        padding:5px;
+        color:rgb(236,170,2);
+        width: 150px;
+        height: 40px;
+        font-size:16pt;
+        font-weight:600;
+        font-family:'Segoe UI';
+    }
+
+    .homepage .tile.dim {
+        opacity:0.5;
+    }
+
+@media screen and (-ms-view-state: snapped) {
+    .homepage section[role=main] {
+        margin-left: 20px;
+    }
+}
+
+@media screen and (-ms-view-state: portrait) {
+    .homepage section[role=main] {
+        margin-left: 100px;
+    }
+}

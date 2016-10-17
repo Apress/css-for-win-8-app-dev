@@ -1,0 +1,12 @@
+﻿.box #box {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid gray;
+    width: 500px;
+    height: 500px;
+    background: url('/images/win8logo.png') no-repeat;
+    background-position: center center;
+    background-attachment: local;
+    background-size: 80px 80px;
+    overflow-y: scroll;
+}

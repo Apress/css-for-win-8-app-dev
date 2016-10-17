@@ -1,0 +1,14 @@
+﻿.lst1009 input[type=range]::-ms-track {
+    height:16px;
+}
+.lst1009 input[type=range]::-ms-fill-lower {
+    background-color:gray;    
+}
+
+.lst1009 input[type=range]::-ms-thumb {
+    background-color:white;
+    border:1px solid gray;
+    height:14px;
+    width:14px;
+    border-radius:14px;
+}
